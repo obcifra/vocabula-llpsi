@@ -1,0 +1,39 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 02
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.5
+# Original list by Paul Denisowski
+vir, -ī, m. : man, husband : II
+fēmina, -ae, f. : woman : II
+puer, -erī, m. : boy : II
+puella, -ae, f. : girl : II
+familia, -ae, f. : domestic staff, family : II
+pater, -tris, m. : father : II
+māter, -tris, f. : mother : II
+fīlius, -ī, m. : son : II
+fīlia, -ae, f. : daughter : II
+līberī, -ōrum, mpl. : children : II
+servus, -ī, m. : slave, servant : II
+dominus, -ī, m. : master : II
+ancilla, -ae, f. : female slave, servant : II
+domina, -ae, f. : mistress : II
+liber, -brī, m. : book : II
+titulus, -ī, m. : title : II
+pāgina, -ae, f. : page : II
+antiquus, -a, -um : old : II
+novus, -a, -um : new : II
+cēterus, -a, -um : remaining : II
+meus, -a, -um : my, mine : II
+tuus, -a, -um : your, yours : II
+centum : a hundred : II
+duo, -ae, -o : two : II
+trēs, tria : three : II
+-que : and : II
+quis, quae, quid : who, what : II
+quī, quae, quod : who, which, he who : II
+cuius : whose : II
+quot  : how many, (as many) as : II
+masculīnum  : masculine : II
+fēminīnum : feminine : II
+neutrum : neuter : II
+genetīvus : genitive : II
+# end

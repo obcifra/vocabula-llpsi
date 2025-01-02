@@ -1,0 +1,55 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 20
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+īnfāns, -antis, mf. : little child, baby
+cūnae, -ārum, fpl. : cradle
+somnus, -ī, m. : sleep
+lac, lactis n. : milk
+mulier, -eris, f. : woman
+nūtrīx, -īcis, f. : nurse
+gradus, -ūs, m. : step, degree
+sermō, -ōnis, m. : talk, conversation
+fīliola, -ae, f.  : little daughter
+fīliolus, -ī, m. : little son
+colloquium, -ī, n. : conversation
+officium, -ī, n. : duty, task
+silentium, -ī, n. : silence
+parvulus, -a, -um : little, tiny
+necessārius, -a, -um : necessary
+aliēnus, -a, -um : someone else’s
+futūrus, -a, -um : future
+ūmidus, -a, -um : wet, moist
+fārī : speak
+carēre : be without, lack
+postulāre : demand, require
+vāgīre : wail, squall
+alere : feed, nurish, suckle
+colloquī : talk, converse
+volō : I want
+vīs : you (sing) want
+volumus : we want
+vultis : you (pl) want
+manēre, mānsisse : remain, stay
+pergere, perrēxisse : proceed, go on
+cūrāre : care for, look after, take care
+dēbēre : owe, be obliged
+occurrere, occurrisse : meet
+silēre : be silent
+advehere : carry, convey (to)
+revertī, -tisse, -sum : return, come back
+dīligere, -ēxisse, -ēctum : love, be fond of
+decēre : be fitting, become
+nōlle, nōluisse : be unwilling, not want
+mox : soon
+magis : more
+rārō : rarely, seldom
+crās : tomorrow
+adversus, -a, -um : contrary, unfavorable
+ad ... versus : toward, against
+nōlī, -īte : don’t…!
+sīve ... sīve : whether ... or
+profectō : indeed, certainly
+minimē : by no means, not at all
+ūnā cum : together with
+# end

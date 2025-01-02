@@ -1,0 +1,45 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 23
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0
+# by Paul Denisowski (paul@denisowski.org)
+signum, -ī, n. : sign
+littera, -ae, f. : letter
+vultus, -ūs, m. : countenance, face
+laus, laudis, f. : praise
+factum, -ī, n. : deed, act
+pudor, -ōris, m. : (sense of) shame
+prōmissum, -ī, n. : promise
+verbera, -um, npl. : lashes, flogging
+clāvis, -is, f. : key
+comes, -itis, m. : companion
+integer, -gra, -grum : undamaged, intact
+pallidus, -a, -um : pale
+plānus, -a, -um : plain, clear
+superior, -ius : higher, upper, superior
+trādere, -didisse, -ditum : hand over, deliver
+dīmittere : send away, dismiss
+continēre, -uisse, -tentum : contain
+salūtem dīcere : greet
+pallēre : be pale
+solvere, solvisse, solūtum : untie, discharge, pay
+merēre : earn, deserve
+āvertere : turn aside, avert
+īnscrībere : write on, inscribe
+negāre : deny, say that…not
+fatērī, fassum : admit, confess
+perdere, -didisse, -ditum : destroy, ruin, waste
+pudēre: to make one ashamed (of)
+rubēre : be red, blush
+prōmittere : promise
+inclūdere, -sisse, -sum : shut up
+comitārī : accompany
+illinc : from there
+hinc : from here, hence
+quisnam, quidnam : whoever?, what ever?
+fortasse : perhaps, maybe
+umquam : ever
+posthāc : from now on, hereafter
+antehāc : formerly
+herī : yesterday
+ob : on account of
+# end

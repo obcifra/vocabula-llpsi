@@ -1,0 +1,61 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 22
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+foris, -is, f. : leaf of a door, door
+līmen, -inis n. : threshold
+cardō, -inis, m. : door pivot, hinge
+iānitor, -ōris, m. : doorkeeper
+catēna, -ae, f.  : chain
+aurum, -ī, n. : gold
+lignum, -ī, n. : wood
+faber, -brī, m. : artisan, smith
+tabellārius, -ī, m. : letter-carrier
+imāgō, -inis, f. : picture
+pallium, -ī, n. : cloak, mantle
+aureus, -a, -um : gold
+ferōx, -ōcis : fierce, ferocious
+ferreus, -a, -um : of iron, iron-
+aureus, -a, -um : of gold, golden
+ligneus, -a, -um : wooden
+cūstōdīre : guard
+admittere : let in, admit
+vincīre, vinxisse, vinctum : tie
+rogitāre : ask (repeatedly)
+fremere, -uisse : growl
+mordēre, momordisse, -sum : bite
+retinēre, -uisse, -tentum : hold back
+cavēre, cāvisse, cautum : beware (of)
+monēre : remind, advise, warn
+resistere, -stitisse : halt, resist
+solvere, -visse solūtum : untie, discharge, pay
+terrēre : frighten
+accēdere : approach, come near
+salīre, -uisse : jump
+rumpere, rūpisse, ruptum : break
+cēdere, cessisse : go, withdraw
+prehendere, -disse, -ēnsum : grasp, seize
+recēdere : go back, retire
+prōcēdere : go forward, advance
+sinere, sīvisse, situm : let, allow
+dērīdēre : laugh at, make fun of
+tremere, -uisse : tremble
+pellere, pepulisse, pulsum : push, drive (off)
+removēre : remove
+arbitrārī : think, believe
+scindere, scidisse, scissum : tear, tear up
+iste, ista, istud : this, that (of yours)
+scīlicet : of course
+anteā : before, formerly
+posteā : afterward, later
+prius : before
+tandem : at length, at last
+nūper : recently
+forīs : outside, out of doors
+forās : out
+sīcut : just as, as
+quīn : why not, do…!
+extrā : outside
+intrā : inside, within
+supīnum : supine
+# end

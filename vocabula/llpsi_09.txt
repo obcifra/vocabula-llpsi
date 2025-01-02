@@ -1,0 +1,55 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 09
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.5
+# Original list by Paul Denisowski
+campus, -ī, m. : field, plain : IX
+pāstor, -ōris, m. : shepherd : IX
+canis, -is, m/f. : dog : IX
+ovis, -is, f. : sheep : IX
+cibus, -ī, m. : food : IX
+herba, -ae, f. : grass, herb : IX
+rīvus, -ī, m. : brook : IX
+pānis, -is, m. : bread, loaf : IX
+mōns, montis, m. : mountain : IX
+vallis, -is, f. : valley : IX
+collis, -is, m. : hill : IX
+arbor, -oris, f. : tree : IX
+silva, -ae, f. : wood, forest : IX
+lupus, -ī, m. : wolf : IX
+sōl, -is, m. : sun : IX
+caelum, -ī, n. : sky, heaven : IX
+terra, -ae, f. : earth, ground, country : IX
+nūbēs, -is, f. : cloud : IX
+umbra, -a, f. : shade, shadow : IX
+vestīgium, -ī, n. : footprint, trace : IX
+timor, -ōris, m. : fear : IX
+dēns, dentis, m. : tooth : IX
+clāmor, -ōris, m. : shout, shouting : IX
+modus, -ī, m. : manner, way : IX
+niger, -gra, -grum : black : IX
+albus, -a, -um : white : IX
+ūndēcentum : ninety-nine : IX
+edō, edere/ēsse, ēdī, ēsum : eat : IX
+bibō, bibere, bibī, bibitum : drink : IX
+lūceō, lūcēre, lūxī, - : shine : IX
+petō, petere, petīvī, petītum : make for, aim at, attack, seek, ask for, request : IX
+dūcō, dūcere, dūxī, ductum : guide, lead, draw, trace : IX
+iaciō, iacere, iēcī, iactum : throw, hurl, cast, fling : IX
+relinquō, relinquere, relīquī, relictum : leave, relinquish, forsake : IX
+lātrō, lātrāre, lātrāvī, lātrātum : bark : IX
+errō, errāre, errāvī, errātum : wander, stray : IX
+quaerō, quaerere, quaesīvī, quaesītum : look for, seek, ask (for) : IX
+reperiō, reperīre, repperī, repertum : find, find out, realize, discover : IX
+ululō, ululāre, ululāvī, ululātum : howl : IX
+bālō, bālāre, bālāvī, bālātum : bleat, baa : IX
+accurrō, accurrere, accurrī, accursum  : come running, hasten : IX
+impōnō, impōnere, imposuī, impositum : place (in/on), put : IX
+ipse, -a, -um : himself : IX
+procul : far (from), far away : IX
+suprā : above : IX
+sub : under, near : IX
+dum : while, as long as, till : IX
+ut : like, as : IX
+dēclīnātiō, -ōnis, f. : declension : IX
+dēclīnāre : decline, inflect : IX
+# end

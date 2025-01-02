@@ -1,0 +1,41 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 21
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0
+# by Paul Denisowski (paul@denisowski.org)
+vestis, -is, f. : clothes, cloth
+genū, -ūs n. : knee
+humus, -ī f. : ground
+cruor, -ōris, m. : blood-stained, bloody
+bōs, bovis, mf. : ox
+cornū, -ūs, n. : horn
+causa, -ae, f.  : cause, reason
+porcus, -ī, m. : pig
+pugna, -ae, f.  : fight
+sordēs, -ium, fpl. : dirt
+solum, -ī, n. : soil, ground, floor
+tabella, -ae, f.  : writing-tablet
+mundus, -a, -um : clean, neat
+candidus, -a, -um : white, bright
+angustus, -a, -um : narrow
+validus, -a, -um : strong
+indignus, -a, -um : unworthy, shameful
+falsus, -a, -um : false
+cognōscere, -ōvisse, -itum : get to know, recognize
+cōnspicere : catch sight of, see
+excūsāre : excuse
+vincere, vīcisse, victum : defeat, overcome, win
+nārrāre : relate, tell
+mūtāre : change, exchange
+mentīrī : lie
+crēdere, -didisse : believe, trust, entrust
+fallere, fefellisse, falsum : deceive
+dubitāre : doubt
+fuisse : was
+āiō, ais, ait, āiunt : say
+aliquis, aliquid : someone, something
+humī : on the ground
+interim : meanwhile
+postquam : after, since
+perfectum : perfect
+imperfectum : imperfect
+# end

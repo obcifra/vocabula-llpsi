@@ -1,0 +1,1851 @@
+fluvius,-ī, m. : river : I
+īnsula, -ae, f. : island : I
+oppidum, -ī, n. : town : I
+ōceanus, -ī, m. : ocean : I
+imperium, -ī, n. : empire : I
+prōvincia, -ae, f. : province : I
+numerus, -ī, m. : number : I
+littera, -ae, f. : letter : I
+vocābulum, -ī, n. : vocabulary (word) : I
+capitulum, -ī, n : chapter : I
+syllaba, -ae, f. : syllable : I
+exemplum, -ī, n. : example, model : I
+pēnsum, -ī, n. : task : I
+magnus, -a, -um : big, large, great : I
+parvus, -a, -um : little, small : I
+Graecus, -a, -um : Greek : I
+Rōmānus, -a, -um : Roman : I
+Latīnus, -ī, m. : Latin : I
+multī, -ae, -a : many, a great many : I
+paucī, -ae, -a : few, a few : I
+ūnus, -a, -um : one, only : I
+duo, -ae, -o : two : I
+trēs, tria : three : I
+sex : six : I
+mīlle, -ium, n. : thousand : I
+prīmus, -a, -um : first : I
+secundus, -a, -um : second : I
+tertius, -a, -um : third : I
+est : is : I
+sunt : are : I
+in : in, on, at : I
+et : and, also : I
+sed : but : I
+nōn : not : I
+quoque : also, too : I
+-ne : if, whether (tag used to form questions) : I
+ubi : where : I
+num : if, whether, (asks a question expecting a negative answer) : I
+quid : what : I
+grammatica, -ae, f. : grammar : I
+singulāris : singular : I
+plūrālis : plural : I
+vir, -ī, m. : man, husband : II
+fēmina, -ae, f. : woman : II
+puer, -erī, m. : boy : II
+puella, -ae, f. : girl : II
+familia, -ae, f. : domestic staff, family : II
+pater, -tris, m. : father : II
+māter, -tris, f. : mother : II
+fīlius, -ī, m. : son : II
+fīlia, -ae, f. : daughter : II
+līberī, -ōrum, mpl. : children : II
+servus, -ī, m. : slave, servant : II
+dominus, -ī, m. : master : II
+ancilla, -ae, f. : female slave, servant : II
+domina, -ae, f. : mistress : II
+liber, -brī, m. : book : II
+titulus, -ī, m. : title : II
+pāgina, -ae, f. : page : II
+antiquus, -a, -um : old : II
+novus, -a, -um : new : II
+cēterus, -a, -um : remaining : II
+meus, -a, -um : my, mine : II
+tuus, -a, -um : your, yours : II
+centum : a hundred : II
+duo, -ae, -o : two : II
+trēs, tria : three : II
+-que : and : II
+quis, quae, quid : who, what : II
+quī, quae, quod : who, which, he who : II
+cuius : whose : II
+quot  : how many, (as many) as : II
+masculīnum  : masculine : II
+fēminīnum : feminine : II
+neutrum : neuter : II
+genetīvus : genitive : II
+legiō, -ōnis, f. : legion : XXXIII
+cohors, -rtis, f. : cohort : XXXIII
+agmen, -inis, n. : army on the march, file : XXXIII
+ōrdō, -inis, m. : row, rank, order : XXXIII
+aciēs, -ēī, f. : line of battle : XXXIII
+proelium, -ī, n. : battle : XXXIII
+imperātor, -ōris, m. : (commanding) general : XXXIII
+aetās, -ātis, f. : age : XXXIII
+studium, -ī, n. : interest, study : XXXIII
+stipendium, -ī, n. : soldier's pay, service : XXXIII
+virtūs, -ūtis, f. : valor, courage : XXXIII
+gaudium, -ī, n. : joy, delight : XXXIII
+valētūdō, -inis, f. : health : XXXIII
+amnis, -is, m. : river : XXXIII
+ratis, -is, f. : raft : XXXIII
+rīpa, -ae, f. : bank : XXXIII
+caedēs, -is, f. : killing, slaughter : XXXIII
+vulnus, -eris, n. : wound : XXXIII
+pāx, pācis, f. : peace : XXXIII
+lēgātus, -ī, m. : envoy, delegate : XXXIII
+ēnsis, -is, m. : sword : XXXIII
+legiōnārius, -a, -um : legionary : XXXIII
+idōneus, -a, -um : fit, suitable : XXXIII
+mīlitāris, -e : military : XXXIII
+pūblicus, -a, -um : public, State- : XXXIII
+prīvātus, -a, -um : private : XXXIII
+posterus, -a, -um : next, following : XXXIII
+arduus, -a, -um : steep : XXXIII
+rīdiculus, -a, -um : ridiculous : XXXIII
+ulterior, -ius : farther, more distant : XXXIII
+citerior, -ius : nearer : XXXIII
+incolumis, -e : unharmed, safe : XXXIII
+ōtiōsus, -a, -um : leisured, idle : XXXIII
+dīrus, -a, -um : dreadful : XXXIII
+horrendus, -a, -um : dreadful : XXXIII
+dēnī, -ae, -a : ten (each) : XXXIII
+sēnī, -ae, -a : six (each) : XXXIII
+quīnī, -ae, -a : five (each) : XXXIII
+quaternī, -ae, -a : four (each) : XXXIII
+ūnī, -ae, -a : one : XXXIII
+trīnī, -ae, -a : three : XXXIII
+adiungere : join to, add : XXXIII
+prōgredī, -ior, -gressum : go forward, advance : XXXIII
+īnstruere, -ūxisse, -ūctum : draw up, arrange : XXXIII
+hortārī : encourage, urge : XXXIII
+caedere, cecidisse, caesum : beat, fell, kill : XXXIII
+circumdare : surround : XXXIII
+mūnīre : fortify : XXXIII
+commemorāre : mention : XXXIII
+studēre : devote oneself to : XXXIII
+cōgere coēgisse, coāctum : compel, force : XXXIII
+fatīgāre : tire out, weary : XXXIII
+properāre : hurry : XXXIII
+dēsīderāre : long for, miss : XXXIII
+trānsferre : transfer, transport : XXXIII
+effundere : pour out, shed : XXXIII
+praestāre, -stitisse : furnish, fulfill : XXXIII
+trānsīre, -eō, -iisse, -itum : cross, pass : XXXIII
+cōpulāre : join, connect : XXXIII
+convocāre : call together : XXXIII
+excurrere, -rrisse, -rsum : run out, rush out : XXXIII
+prōcurrere, -rrisse, -rsum : run forward, charge : XXXIII
+ērumpere : break out : XXXIII
+vulnerāre : wound : XXXIII
+plērīque, plēraeque, plēraque : most, most people : XXXIII
+prīdiē : the day before : XXXIII
+praecipuē : especially, above all : XXXIII
+tamdiū : so long, as long : XXXIII
+quamdiū : how long, (as long) as : XXXIII
+ferē : about, almost : XXXIII
+etenim : and indeed, for : XXXIII
+citrā : on this side of : XXXIII
+ultrā : beyond : XXXIII
+secundum : along : XXXIII
+foris, -is, f. : leaf of a door, door : XXII
+līmen, -inis n. : threshold : XXII
+cardō, -inis, m. : door pivot, hinge : XXII
+iānitor, -ōris, m. : doorkeeper : XXII
+catēna, -ae, f.  : chain : XXII
+aurum, -ī, n. : gold : XXII
+lignum, -ī, n. : wood : XXII
+faber, -brī, m. : artisan, smith : XXII
+tabellārius, -ī, m. : letter-carrier : XXII
+imāgō, -inis, f. : picture : XXII
+pallium, -ī, n. : cloak, mantle : XXII
+aureus, -a, -um : gold : XXII
+ferōx, -ōcis : fierce, ferocious : XXII
+ferreus, -a, -um : of iron, iron- : XXII
+aureus, -a, -um : of gold, golden : XXII
+ligneus, -a, -um : wooden : XXII
+cūstōdīre : guard : XXII
+admittere : let in, admit : XXII
+vincīre, vinxisse, vinctum : tie : XXII
+rogitāre : ask (repeatedly) : XXII
+fremere, -uisse : growl : XXII
+mordēre, momordisse, -sum : bite : XXII
+retinēre, -uisse, -tentum : hold back : XXII
+cavēre, cāvisse, cautum : beware (of) : XXII
+monēre : remind, advise, warn : XXII
+resistere, -stitisse : halt, resist : XXII
+solvere, -visse solūtum : untie, discharge, pay : XXII
+terrēre : frighten : XXII
+accēdere : approach, come near : XXII
+salīre, -uisse : jump : XXII
+rumpere, rūpisse, ruptum : break : XXII
+cēdere, cessisse : go, withdraw : XXII
+prehendere, -disse, -ēnsum : grasp, seize : XXII
+recēdere : go back, retire : XXII
+prōcēdere : go forward, advance : XXII
+sinere, sīvisse, situm : let, allow : XXII
+dērīdēre : laugh at, make fun of : XXII
+tremere, -uisse : tremble : XXII
+pellere, pepulisse, pulsum : push, drive (off) : XXII
+removēre : remove : XXII
+arbitrārī : think, believe : XXII
+scindere, scidisse, scissum : tear, tear up : XXII
+iste, ista, istud : this, that (of yours) : XXII
+scīlicet : of course : XXII
+anteā : before, formerly : XXII
+posteā : afterward, later : XXII
+prius : before : XXII
+tandem : at length, at last : XXII
+nūper : recently : XXII
+forīs : outside, out of doors : XXII
+forās : out : XXII
+sīcut : just as, as : XXII
+quīn : why not, do…! : XXII
+extrā : outside : XXII
+intrā : inside, within : XXII
+supīnum : supine : XXII
+gallus, -ī, m. : cock, rooster : XIV
+vestīmentum, -ī, n. : garment, clothing : XIV
+tunica, -ae, f. : tunic : XIV
+toga, -ae, f. : toga : XIV
+calceus, -ī, m. : shoe : XIV
+parentēs, -um, mpl. : parents : XIV
+tabula, -ae, f. : writing-tablet : XIV
+stilus, -ī, m. : stylus : XIV
+rēgula, -ae, f. : ruler : XIV
+rēs, reī, f. : thing, matter, affair : XIV
+apertus, -a, -um : open : XIV
+clausus, -a, -um : closed, shut : XIV
+sordidus, -a, -um : dirty, mean, base : XIV
+pūrus, -a, -um : clean, pure : XIV
+nūdus, -a, -um : naked : XIV
+togātus, -a, -um : wearing the toga : XIV
+dexter, -tra, -trum : right : XIV
+sinister, -tra, -trum : left : XIV
+omnis, -e : all, every : XIV
+cubāre, cubuisse, cubitum : lie (in bed) : XIV
+vigilāre : be awake : XIV
+valēre : be strong, be well : XIV
+excitāre : wake up, arouse : XIV
+surgere, surrēxisse : rise, get up : XIV
+afferre attulisse allātum : bring (to, forward, about) : XIV
+lavāre, lāvisse, lautum : wash, bathe : XIV
+mergere, -sisse, -sum : dip, plunge, sink : XIV
+solēre, solitum esse : be accustomed : XIV
+frīgēre : be cold : XIV
+poscere, poposcisse : demand, call for : XIV
+vestīre : dress : XIV
+induere, induisse, indūtum : put on (clothes) : XIV
+gerere, gessisse, gestum : carry, wear, carry on, do : XIV
+inquit, inquiunt : (he/she) says/said : XIV
+uterque utraque, utrumque : each of the two, both : XIV
+neuter, neutra, neutrum : neither : XIV
+alter, altera, alterum : one, the other, second : XIV
+uter, utra, utrum : which (of the two) : XIV
+mihi : to me : XIV
+tibi : to you : XIV
+mēcum : with me : XIV
+tēcum : with you : XIV
+sēcum : with him, her, it : XIV
+nihil : nothing : XIV
+quōmodo : how : XIV
+hodiē : today : XIV
+adhūc : so far, till now, still : XIV
+prīmum : first : XIV
+deinde : 	afterward, then : XIV
+praeter : past, besides, except : XIV
+an : or : XIV
+valē : farewell, goodbye : XIV
+participium, -ī, n. : participle : XIV
+respōnsum, -ī, n. : answer : XVII
+as, assis, m. : as (copper coin) : XVII
+dēnārius, -ī, m. : denarius (silver coin) : XVII
+doctus, -a, -um : learned, skilled : XVII
+indoctus, -a, -um : ignorant : XVII
+piger, -gra, -grum : lazy : XVII
+prūdēns, -entis : prudent, clever : XVII
+industrius, -a, -um : industrious : XVII
+rēctus, -a, -um : straight, correct : XVII
+prāvus, -a, -um : faulty, wrong : XVII
+facilis, -e : easy : XVII
+difficilis, -e : difficult, hard : XVII
+absēns, -entis : absent : XVII
+certus, -a, -um : certain, sure : XVII
+incertus, -a, -um : uncertain : XVII
+largus, -a, -um : generous : XVII
+centēsimus, -a, -um : hundredth : XVII
+trēdecim : thirteen : XVII
+quattuordecim : fourteen : XVII
+quīndecim : fifteen : XVII
+sēdecim : sixteen : XVII
+septendecim : seventeen : XVII
+duodēvīgintī : eighteen : XVII
+ūndēvīgintī : nineteen : XVII
+quadrāgintā : forty : XVII
+quīnquāgintā : fifty : XVII
+septuāgintā : seventy : XVII
+quadringentī, -ae, -a : four hundred : XVII
+quīngentī, -ae, -a : five hundred : XVII
+sescentī, -ae, -a : six hundred : XVII
+septingentī, -ae, -a : seven hundred : XVII
+octingentī, -ae, -a : eight hundred : XVII
+nōngentī, -ae, -a : nine hundred : XVII
+discere didicisse : learn : XVII
+docēre, -uisse, doctum : teach, instruct : XVII
+scīre : know : XVII
+nescīre : not know : XVII
+tollere, sustulisse, sublātum : raise, lift, pick up, remove, take away : XVII
+interpellāre : interrupt : XVII
+laudāre : praise : XVII
+cōgitāre : think : XVII
+reprehendere : blame, censure : XVII
+prōmere, prōmpsisse, prōmptum : take out : XVII
+oportēre  : be right, should : XVII
+computāre : calculate, reckon : XVII
+repōnere : put back : XVII
+largīrī : give generously : XVII
+dēmōnstrāre : point out, show : XVII
+partīrī : share, divide : XVII
+quisque, quaeque, quodque : each : XVII
+tot : so many : XVII
+postrēmō : finally : XVII
+rēctē : correctly, properly, well : XVII
+prāvē : incorrectly, wrongly : XVII
+aequē : equally : XVII
+ūsque : up (to), all the time : XVII
+numquam : never : XVII
+saepe : often : XVII
+quamquam : although : XVII
+quārē : why : XVII
+sacculus, -ī, m. : purse : IV
+pecūnia, -ae, f. : money : IV
+nummus, -ī, m. : coin, sesterce : IV
+mēnsa, -ae, f. : table : IV
+baculum, -ī, n. : stick : IV
+vacuus, -a, -um : empty : IV
+bonus, -a, -um : good : IV
+quattuor : four : IV
+quīnque : five : IV
+septem : seven : IV
+octō : eight : IV
+novem : nine : IV
+decem : ten : IV
+habēre : have, hold, consider : IV
+numerāre : count : IV
+adesse : be present, stand by : IV
+abesse  : be absent, away, distant : IV
+salūtāre : greet : IV
+tacēre : be silent : IV
+accūsāre : accuse : IV
+pōnere  : place, put, lay down : IV
+sūmere : take : IV
+discēdere : go away, depart : IV
+imperāre  : command, order, rule : IV
+pārēre  : obey : IV
+nūllus, -a, -um : no : IV
+eius : his : IV
+suus, -a, -um : his, her, their (own) : IV
+is, ea, id : he, she, it, that : IV
+quod  : because, that : IV
+rūrsus : again : IV
+tantum, -ī, n. : so much : IV
+salvē : hello, good morning : IV
+vocātīvus  : vocative : IV
+imperātīvus  : imperative : IV
+indicātīvus : indicative : IV
+latus, -eris, n. : side, flank : XXIV
+sonus, -ī, m. : sound, noise : XXIV
+strepitus, -ūs, m. : noise, din : XXIV
+dolor, -ōris, m. : pain, grief : XXIV
+os, ossis, n. : bone : XXIV
+tumultus, -ūs, m. : uproar : XXIV
+aegrōtus, -a, -um : sick : XXIV
+laevus, -a, -um : left : XXIV
+pār, paris : equal : XXIV
+impār, -aris : unequal : XXIV
+subitus, -a, -um : sudden : XXIV
+cruentus, -a, -um : blood-stained, bloody : XXIV
+convertere : turn : XXIV
+mīrārī : wonder (at), be surprised : XXIV
+recumbere, -cubuisse : lie down : XXIV
+percutere, -iō, -cussisse : strike, hit : XXIV
+frangere, frēgisse, frāctum : break, shatter : XXIV
+flēre, -ēvisse : cry, weep (for) : XXIV
+patī, passum : suffer, undergo, bear : XXIV
+ignōrāre : not know : XXIV
+nōscere, nōvisse : get to know, know : XXIV
+cupere, -iō, -īvisse : desire : XXIV
+iūxtā : next to, beside : XXIV
+dēnuō : anew, again : XXIV
+subitō : suddenly : XXIV
+continuō : immediately : XXIV
+certō : for certain : XXIV
+prīmō : at first : XXIV
+valdē : strongly, very (much) : XXIV
+aliter : otherwise : XXIV
+intus : inside : XXIV
+etsī : even if, although : XXIV
+cēterum : besides, however : XXIV
+plūsquamperfectum : pluperfect : XXIV
+servitūs, -ūtis, f. : slavery : XXXII
+incola, -ae, mf. : inhabitant : XXXII
+vīs : force, violence, power : XXXII
+audācia, -ae, f. : boldness, audacity : XXXII
+inopia, -ae, f. : lack, scarcity : XXXII
+populus, -ī, m. : people, nation : XXXII
+classis, -is, f. : fleet : XXXII
+victōria, -ae, f. : victory : XXXII
+gēns, gentis, f. : nation, people : XXXII
+victor, -ōris m, : conqueror, victorious : XXXII
+vīrēs, -ium, fpl. : strength : XXXII
+voluntās, -ātis, f. : will : XXXII
+grātia, -ae, f. : favor, gratitude : XXXII
+poēta, -ae, mf. : poet : XXXII
+amīcitia, -ae, f. : friendship : XXXII
+pīrāta, -ae, m. : pirate : XXXII
+condiciō, -ōnis, f. : condition : XXXII
+talentum, -ī, n. : talent : XXXII
+amphitheātrum, -ī, n. : amphitheater : XXXII
+cursus, -ūs, m. : race, journey, course : XXXII
+cūnctus, -a, -um : whole, all : XXXII
+īnfēstus, -a, -um : unsafe, infested : XXXII
+cārus, -a, -um : dear : XXXII
+ēgregius, -a, -um : outstanding, excellent : XXXII
+proximus, -a, -um : nearest : XXXII
+commūnis, -e : common : XXXII
+grātus, -a, -um : pleasing, grateful : XXXII
+vīlis, -e : cheap : XXXII
+internus, -a, -um : inner, internal : XXXII
+mercātōrius, -a, -um : merchant- : XXXII
+nūbilus, -a, -um : cloudy : XXXII
+inermis, -e : unarmed : XXXII
+mūtuus, -a, -um : on loan : XXXII
+superbus, -a, -um : haughty, proud : XXXII
+submergere : sink : XXXII
+contemnere, contempsisse, contemptum : despise, scorn : XXXII
+percurrere, percurrisse, percursum : run over, pass over : XXXII
+tuērī, tūtum : guard, protect : XXXII
+rēmigāre : row : XXXII
+adiuvāre : help : XXXII
+flectere, flexisse, flexum : bend, turn : XXXII
+ēdūcere : bring out, draw out : XXXII
+repugnāre : fight back, resist : XXXII
+dissuādēre : advise not to : XXXII
+praeferre : prefer : XXXII
+offerre, obtulisse, oblātum : offer : XXXII
+redimere, redēmisse, redēmptum : ransom : XXXII
+reminīscī : recollect : XXXII
+meminisse : remember, recollect : XXXII
+referre, rettulisse : bring back, return : XXXII
+minārī : threaten : XXXII
+armāre : arm, equip : XXXII
+dēsistere, -stitisse : leave off, cease : XXXII
+aliquot : some, several : XXXII
+ubīque : everywhere : XXXII
+aliquandō : once : XXXII
+intereā : meanwhile : XXXII
+etiamnunc : still : XXXII
+dōnec : as long as : XXXII
+neu : and (that) not, nor : XXXII
+seu : or, if : XXXII
+utinam : I wish that, if only…! : XXXII
+īnfāns, -antis, mf. : little child, baby : XX
+cūnae, -ārum, fpl. : cradle : XX
+somnus, -ī, m. : sleep : XX
+lac, lactis n. : milk : XX
+mulier, -eris, f. : woman : XX
+nūtrīx, -īcis, f. : nurse : XX
+gradus, -ūs, m. : step, degree : XX
+sermō, -ōnis, m. : talk, conversation : XX
+fīliola, -ae, f.  : little daughter : XX
+fīliolus, -ī, m. : little son : XX
+colloquium, -ī, n. : conversation : XX
+officium, -ī, n. : duty, task : XX
+silentium, -ī, n. : silence : XX
+parvulus, -a, -um : little, tiny : XX
+necessārius, -a, -um : necessary : XX
+aliēnus, -a, -um : someone else’s : XX
+futūrus, -a, -um : future : XX
+ūmidus, -a, -um : wet, moist : XX
+fārī : speak : XX
+carēre : be without, lack : XX
+postulāre : demand, require : XX
+vāgīre : wail, squall : XX
+alere : feed, nurish, suckle : XX
+colloquī : talk, converse : XX
+volō : I want : XX
+vīs : you (sing) want : XX
+volumus : we want : XX
+vultis : you (pl) want : XX
+manēre, mānsisse : remain, stay : XX
+pergere, perrēxisse : proceed, go on : XX
+cūrāre : care for, look after, take care : XX
+dēbēre : owe, be obliged : XX
+occurrere, occurrisse : meet : XX
+silēre : be silent : XX
+advehere : carry, convey (to) : XX
+revertī, -tisse, -sum : return, come back : XX
+dīligere, -ēxisse, -ēctum : love, be fond of : XX
+decēre : be fitting, become : XX
+nōlle, nōluisse : be unwilling, not want : XX
+mox : soon : XX
+magis : more : XX
+rārō : rarely, seldom : XX
+crās : tomorrow : XX
+adversus, -a, -um : contrary, unfavorable : XX
+ad ... versus : toward, against : XX
+nōlī, -īte : don’t…! : XX
+sīve ... sīve : whether ... or : XX
+profectō : indeed, certainly : XX
+minimē : by no means, not at all : XX
+ūnā cum : together with : XX
+ōrātiō, -ōnis, f. : speech : XXXV
+coniūnctiō, -ōnis, f. : conjunction : XXXV
+interiectiō, -ōnis, f. : interjection : XXXV
+Mūsa, -ae, f. : Muse : XXXV
+scamnum, -ī, n. : stool : XXXV
+sacerdōs, -ōtis, mf. : priest, priestess : XXXV
+cāsus, -ūs, m. : case : XXXV
+comparātiō, -ōnis, f. : comparison : XXXV
+quālitās, -ātis, f. : quality : XXXV
+quantitās, -ātis, f. : quantity, size : XXXV
+significātiō, -ōnis, f. : meaning, sense : XXXV
+speciēs, -ēī, f. : appearance, aspect, sort : XXXV
+īra, -ae, f. : anger : XXXV
+affectus, -ūs, m. : mood, feeling : XXXV
+admīrātiō, -ōnis, f. : wonder, admiration : XXXV
+coniugātiō, -ōnis, f. : conjugation : XXXV
+proprius, -a, -um : own, proper : XXXV
+appellātīvum : appellative : XXXV
+positīvus : positive : XXXV
+optātīvus : optative : XXXV
+cōpulātīvus : compulative, connecting : XXXV
+disiūnctīvus : disjunctive, separate : XXXV
+explētīvus : expletive : XXXV
+causālis : causal : XXXV
+ratiōnālis :  rational : XXXV
+inconditus : rude, crude, uncivilized : XXXV
+similis : similar : XXXV
+īnflectere : inflect : XXXV
+dēmere, -mpsisse, -mptum : remove : XXXV
+luctārī : wrestle : XXXV
+explānāre : explain : XXXV
+adnectere, -xuisse, -xum : attach, connect : XXXV
+ōrdināre : arrange, regulate : XXXV
+mentiōnem facere : mention, note : XXXV
+dumtaxat : only, just : XXXV
+tantundem : just as much : XXXV
+quidnī : why not : XXXV
+forsitan : perhaps, maybe : XXXV
+sīquidem : seeing that, since : XXXV
+quāpropter : why : XXXV
+proptereā : therefore : XXXV
+cis : on this side of : XXXV
+ēn : look, here is : XXXV
+coniugātiō, -ōnis, f. : conjugation : XXXV
+synōnymum, -ī, n. : synonym : XXXV
+pōtiō, -ōnis, f. : drinking, drink : XXXI
+rūmor, -ōris, m. : rumor : XXXI
+memoria, -ae, f. : memory : XXXI
+mūnus, -eris, n. : gift : XXXI
+fidēs, -ium, fpl. : lyre : XXXI
+crux, -ucis, f. : cross : XXXI
+iuvenis, -is, m. : young man : XXXI
+praemium, -ī, n. : reward, prize : XXXI
+poena, -ae, f. : punishment, penalty : XXXI
+iūs, iūris, n. : right, justice : XXXI
+lēx, lēgis, f. : law : XXXI
+parricīda, -ae, m. : parricide : XXXI
+scelus, -eris, n. : crime : XXXI
+supplicium, -ī, n. : (capital) punishment : XXXI
+mōs, mōris, m. : custom, usage : XXXI
+iniūria, -ae, f. : injustice, wrong : XXXI
+senex, senis, m. : old man : XXXI
+nūgae, -ārum, fpl. : idle talk, rubbish : XXXI
+praesēs, -entis : present : XXXI
+avārus, -a, -um : greedy, avaricious : XXXI
+impatiēns, -entis : impatient : XXXI
+īnfēlīx, -īcis : unlucky, unfortunate : XXXI
+asinīnus, -a, -um : ass’s : XXXI
+fīdus, -a, -um : faithful, reliable : XXXI
+īnfidus, -a, -um : faithless : XXXI
+fugitīvus, -a, -um : runaway : XXXI
+nimius, -a, -um : too big : XXXI
+clēmēns, -entis : mild, lenient : XXXI
+iūstus, -a, -um : just, fair : XXXI
+iniūstus, -a, -um : unjust, unfair : XXXI
+sapiēns, -entis : wise : XXXI
+scelestus, -a, -um : criminal, wicked : XXXI
+crūdēlis, -e : cruel : XXXI
+vetus, -eris : old : XXXI
+invalidus, -a, -um : infirm, weak : XXXI
+dēbilis, -e : weak : XXXI
+ēbrius, -a, -um : drunk : XXXI
+nōnāgēsimus, -a, -um : ninetieth : XXXI
+optāre : wish : XXXI
+aufugere : run away, escape : XXXI
+auferre, abstulisse, ablātum : carry off, take away : XXXI
+fīdere, fīsum esse : trust, rely on : XXXI
+cōnfidere : trust : XXXI
+cruciāre : torture, torment : XXXI
+latēre : be hidden, hide : XXXI
+retrahere : pull back, bring back : XXXI
+statuere, -uisse, -ūtum : fix, determine : XXXI
+ignōscere, -ōvisse : forgive : XXXI
+ōdisse : hate : XXXI
+vetāre : forbid : XXXI
+ēducāre : bring up : XXXI
+abdūcere : take away, carry off : XXXI
+fābulārī : talk, chat : XXXI
+quidquid : whatever, anything that : XXXI
+quisquis : whoever, anyone who : XXXI
+quantum, -ī, n. : how much, (as much) as : XXXI
+aliquantum : a good deal : XXXI
+nimium : too much : XXXI
+quamobrem : why : XXXI
+ideō : for that reason : XXXI
+funditus : to the bottom, utterly : XXXI
+priusquam : before : XXXI
+namque : for : XXXI
+cōram : in the presence of : XXXI
+asinus, -ī, m. : ass, donkey : X
+leō, -ōnis, m. : lion : X
+bēstia, -ae, f. : beast, animal : X
+homō, -inis, m. : human being, person : X
+fera, -ae, f. : wild animal : X
+avis, -is, f. : bird : X
+piscis, -is, m. : fish : X
+aquila, -ae, f. : eagle : X
+āēr, -eris, m. : air : X
+āla, -ae, f. : wing : X
+pēs pedis, m. : foot : X
+cauda, -ae, f. : tail : X
+petasus, -ī, m. : hat : X
+deus, -ī, m : god : X
+mercātor, -ōris, m. : merchant : X
+nūntius, -ī, m. : messenger, message : X
+mare, -is, n. : sea : X
+flūmen, -inis, n. : river : X
+anima, -ae, f. : breath, life, soul : X
+pulmō, -ōnis, m. : lung : X
+animal, -ālis, n. : animal, living being : X
+nīdus, -ī, m. : nest : X
+rāmus, -ī, m. : branch, bough : X
+folium, -ī, n. : leaf : X
+ōvum, -ī, n. : egg : X
+pullus, -ī, m. : young (of an animal) : X
+pila, -ae, f. : ball : X
+vōx vōcis, f. : voice : X
+lectus, -ī, m. : bed, couch : X
+ferus, -a, -um : wild : X
+vīvus, -a, -um : living, alive : X
+mortuus, -a, -um : dead : X
+crassus, -a, -um : thick, fat : X
+tenuis, -e : thin : X
+perterritus, -a, -um : terrified : X
+capere, -iō, cēpisse, captum : take, catch, capture : X
+volāre : fly : X
+natāre : swim : X
+movēre, mōvisse, mōtum : move, stir : X
+facere, -iō, fēcisse, factum : make, do, cause : X
+vīvere, vīxisse : live, be alive : X
+spīrāre : breathe : X
+parere, -iō, peperisse : give birth to, lay : X
+lūdere, -sisse, -sum : play : X
+canere, cecinisse : sing (of), crow, play : X
+posse, potuisse : be able : X
+velle, volō, voluisse : want, be willing : X
+necesse est : it is necessary : X
+nēmō, -inem, -inī : no one, nobody : X
+cum : with : X
+quod : what, which, that which : X
+enim : for : X
+īnfīnītīvus : infinitive : X
+scalpellum, -ī, n. : scalpel, surgical knife : XXXIV
+opera, -ae, f. : effort, pains : XXXIV
+lūdus, -ī, m. : game : XXXIV
+certāmen, -inis, n. : contest, fight : XXXIV
+gladiātor, -ōris, m. : gladiator : XXXIV
+rēte, -is, n. : net : XXXIV
+spectātor, -ōris, m. : spectator : XXXIV
+palma, -ae, f. : palm : XXXIV
+circus, -ī, m. : circle, orbit, circus : XXXIV
+aurīga, -ae, m. : charioteer, driver : XXXIV
+theātrum, -ī, n. : theater : XXXIV
+cōmoedia, -ae, f. : comedy : XXXIV
+ingenium, -ī, n. : nature, character : XXXIV
+ratiō, -ōnis, f. : reason : XXXIV
+prīncipium, -ī, n. : beginning : XXXIV
+fātum, -ī, n. : fate, destiny, death : XXXIV
+gremium, -ī, n. : lap, bosom : XXXIV
+tenebrae, -ārum, fpl. : darkness : XXXIV
+lucerna, -ae, f. : lamp : XXXIV
+passer, -eris, m. : sparrow : XXXIV
+dēliciae, -ārum, fpl. : delight, pet : XXXIV
+ocellus, -ī, m. : (little) eye : XXXIV
+mēns, mentis, f. : mind : XXXIV
+bāsium, -ī, n. : kiss : XXXIV
+odium, -ī, n. : hatred : XXXIV
+rīsus, -ūs, m. : laughter, laugh : XXXIV
+cachinnus, -ī, m. : laugh, guffaw : XXXIV
+arānea, -ae, f. : spider, cobweb : XXXIV
+epigramma, -atis, n. : epigram : XXXIV
+sinus, -ūs, m. : fold (of toga) : XXXIV
+versiculus, -ī, m. : short verse : XXXIV
+anus, -ūs, f. : old woman : XXXIV
+testis, -is, mf. : witness : XXXIV
+opēs, -um, fpl. : resources, wealth : XXXIV
+diphthongus, -ī, n. : diphthong : XXXIV
+nota, -ae, f. : mark, sign : XXXIV
+turgidus, -a, -um : swollen : XXXIV
+misellus, -a, -um : poor, wretched : XXXIV
+gladiātōrius, -a, -um : gladiatorial : XXXIV
+circēnsēs, -ium, mpl. : games in the circus : XXXIV
+scaenicus, -a, -um : theatrical : XXXIV
+ācer, -cris, -cre : keen, active, fierce : XXXIV
+geminus, -a, -um : twin : XXXIV
+bellus, -a, -um : lovely, pretty : XXXIV
+poēticus, -a, -um : poetical : XXXIV
+venustus, -a, -um : charming : XXXIV
+mellītus, -a, -um : sweet : XXXIV
+tenebricōsus, -a, -um : dark : XXXIV
+ultimus, -a, -um : most distant, last : XXXIV
+perpetuus, -a, -um : continuous, permanent : XXXIV
+dubius, -a, -um : undecided, doubtful : XXXIV
+iocōsus, -a, -um : humorous, funny : XXXIV
+sērius, -a, -um : serious : XXXIV
+niveus, -a, -um : snow-white : XXXIV
+certāre : contend, fight : XXXIV
+laedere, -sisse, -sum : injure, hurt : XXXIV
+implicāre, -uisse, -itum : enfold : XXXIV
+plaudere, -sisse : clap, applaud : XXXIV
+libēre: please (sb) : XXXIV
+favēre, fāvisse : favor, support : XXXIV
+lūgēre, -xisse : mourn : XXXIV
+accendere, -disse, -ēnsum : light, inflame : XXXIV
+circumsilīre : hop about : XXXIV
+pīpiāre : chirp : XXXIV
+dēvorāre : swallow up, devour : XXXIV
+conturbāre : mix up, confound : XXXIV
+nūbere, nūpsisse : marry : XXXIV
+affirmāre : assert, affirm : XXXIV
+requīrere, -sīvisse, -sītum : seek, ask : XXXIV
+excruciāre : torture, torment : XXXIV
+ōscitāre : gape, yawn : XXXIV
+sapere, -iō, -iisse : be wise, have sense : XXXIV
+ērubēscere, -buisse : blush : XXXIV
+prōsilīre, -uisse : spring forth : XXXIV
+ēlīdere, -sisse, -sum : omit, elide : XXXIV
+libenter : with pleasure, gladly : XXXIV
+plērumque : mostly : XXXIV
+interdum : now and then : XXXIV
+dummodo : provided that, if only : XXXIV
+nīl : nothing : XXXIV
+trochaeus, -ī, m. : trochee : XXXIV
+iambus, -ī, m. : iambus : XXXIV
+dactylus, -ī, m. : dactyl : XXXIV
+spondēus, -ī, m. : spondee : XXXIV
+hexameter, -ī, m. : hexameter : XXXIV
+pentameter, -ī, m. : pentameter : XXXIV
+hendecasyllabus, -ī, m. : hendecasyllabus : XXXIV
+nāvis, -is, f. : ship : XVI
+portus, -ūs, m. : harbor : XVI
+locus, -ī, m. : place : XVI
+ōra, -ae, f.  : border, coast : XVI
+merx, -rcis, f. : commodity, (pl) goods : XVI
+nauta, -ae, m. : sailor : XVI
+ventus, -ī, m. : wind : XVI
+tempestās, -ātis, f. : storm : XVI
+flūctus, -ūs, m. : wave : XVI
+vēlum, -ī, n. : sail : XVI
+puppis, -is, f. : stern, poop : XVI
+gubernātor, -ōris, m. : steersman : XVI
+oriēns, -entis, m. : east : XVI
+occidēns, -entis, m. : west : XVI
+septentriōnēs, -um, mpl. : north : XVI
+altum, -ī, n. : the open sea : XVI
+tonitrus, -ūs, m. : thunder : XVI
+fulgur, -uris, n. : flash of lightning : XVI
+situs, -a, -um : situated : XVI
+superus, -a, -um : upper : XVI
+īnferus, -a, -um : lower : XVI
+maritimus, -a, -um : sea-, coastal : XVI
+tranquillus, -a, -um : calm, still : XVI
+turbidus, a, -um : agitated, stormy : XVI
+contrārius, -a, -um : opposite, contrary : XVI
+serēnus, -a, -um : clear, cloudless : XVI
+āter, -tra, -trum : black, dark : XVI
+interesse : be between : XVI
+appellāre : call, address : XVI
+nāvigāre : sail : XVI
+īnfluere : flow into : XVI
+opperīrī, -ertum : wait (for), await : XVI
+flāre : blow : XVI
+turbāre : stir up, agitate : XVI
+implēre, -ēvisse, -ētum : fill, complete : XVI
+ēgredī, -ior, -gressum : go out : XVI
+gubernāre : steer, govern : XVI
+orīrī, ortum : rise, appear : XVI
+occidere, -disse : fall, sink, set : XVI
+cōnscendere, -disse : mount, board : XVI
+proficīscī, -fectum : set out, depart : XVI
+sequī, secūtum : follow : XVI
+cernere, crēvisse : discern, perceive : XVI
+laetārī : rejoice, be glad : XVI
+verērī : fear : XVI
+intuērī : look at, watch : XVI
+lābī, lāpsum : slip, drop, fall : XVI
+complectī, -exum : embrace : XVI
+cōnsōlārī : comfort, console : XVI
+loquī, locūtum : speak, talk : XVI
+invocāre : call upon, invoke : XVI
+iactāre : throw, toss about : XVI
+haurīre, -sisse, -stum : draw (water), bail : XVI
+servāre : preserve, save : XVI
+cōnārī : attempt, try : XVI
+fierī, factum, esse : be made, be done, become, happen : XVI
+fit : it happens, it becomes : XVI
+fiunt : they happen, they become : XVI
+paulum : a little, little : XVI
+semper : always : XVI
+simul : together, at the same time : XVI
+vix : hardly : XVI
+praetereā : besides : XVI
+iterum : again, a second time : XVI
+sīve : or, or if : XVI
+vērō : really, however, but : XVI
+propter : because of : XVI
+dēpōnens : deponent : XVI
+corpus, -oris, n. : body : XI
+membrum, -ī, n. : limb : XI
+bracchium, -ī, n. : arm : XI
+crūs, -ūris, n. : leg : XI
+manus, -ūs, f. : hand : XI
+caput, -itis, n. : head, chief, capital : XI
+auris, -is, f. : ear : XI
+ōs, ōris, n. : mouth : XI
+capillus, -ī, m. : hair : XI
+frōns, -ontis, f. : forehead : XI
+gena, -ae, f. : cheek : XI
+cerebrum, -ī, n. : brain : XI
+labrum, -ī, n. : lip : XI
+lingua, -ae, f. : tongue, language : XI
+pectus, -oris, n. : breast : XI
+cor, cordis, n. : heart : XI
+sanguis, -inis, m. : blood : XI
+vēna, -ae, f. : vein : XI
+color, -ōris, m. : color : XI
+iecur, -oris, n. : liver : XI
+venter, -tris, m. : belly, stomach : XI
+viscera, -um, npl. : internal organs : XI
+medicus, -ī, m. : physician, doctor : XI
+pōculum, -ī, n. : cup, glass : XI
+culter, -tri, m. : knife : XI
+hūmānus, -a, -um : human : XI
+stultus, -a, -um : stupid, foolish : XI
+ruber, -bra, -brum : red : XI
+sānus, -a, -um : healthy, well : XI
+aeger, -gra, -grum : sick, ill : XI
+noster, -tra, -trum : our, ours : XI
+bene : well : XI
+male : badly, ill : XI
+fluere, -ūxisse : flow : XI
+sānāre : heal, cure : XI
+sedēre, sēdisse : sit : XI
+stāre stetisse : stand : XI
+tangere, tetigisse, tāctum : touch : XI
+arcessere, -īvisse, -ītum : send for, fetch : XI
+iubēre, iussisse, iussum : order, tell : XI
+revenīre : come back : XI
+aegrōtāre : be ill : XI
+dīcere, -xisse, dictum : say, call, speak : XI
+spectāre : watch, look at : XI
+dolēre : hurt, feel pain, grieve : XI
+appōnere : place (on), serve : XI
+sentīre, sēnsisse, sēnsum : feel, sense, think : XI
+horrēre : bristle, stand on end, shudder (at) : XI
+palpitāre : beat, throb : XI
+putāre : think, suppose : XI
+gaudēre, gavisum esse : be glad, be pleased : XI
+dētergēre : wipe off : XI
+posse, potuisse : be able : XI
+modo : only, just : XI
+super : on (top of), above : XI
+īnfrā prp +acc : below : XI
+dē : (down) from, of, about : XI
+atque : and, as, than : XI
+nec : nor : XI
+fretum, -ī, n. : strait : XXVIII
+animus, -ī, m. : mind, soul : XXVIII
+turba, -ae, f. : throng, crowd : XXVIII
+fāma, -ae, f. : rumor, reputation : XXVIII
+libellus, -ī, m. : little book : XXVIII
+dictum, -ī, n. : saying, words : XXVIII
+prīnceps, -ipis, m. : chief, leader : XXVIII
+tībīcen, -inis, m. : flute-player : XXVIII
+potestās, -ātis, f. : power : XXVIII
+mundus, -ī, m. : world, universe : XXVIII
+nāvicula, -ae, f. : boat : XXVIII
+vigilia, -ae, f. : night watch : XXVIII
+phantasma, -atis, n. : ghost, apparition : XXVIII
+tranquillitās, -ātis, f. : calmness : XXVIII
+vorāgō, -inis, f. : abyss, whirlpool : XXVIII
+perīculum, -ī, n. : danger, peril : XXVIII
+praedō, -ōnis, m. : robber, pirate : XXVIII
+pecūlium, -ī, n. : money given to slaves : XXVIII
+caecus, -a, -um : blind : XXVIII
+surdus, -a, -um : deaf : XXVIII
+mūtus, -a, -um : dumb : XXVIII
+claudus, -a, -um : lame : XXVIII
+ūniversus, -a, -um : the whole of, entire : XXVIII
+mortālis, -e : mortal : XXVIII
+immortālis, -e : immortal : XXVIII
+cōnstāns, -antis : steady, firm : XXVIII
+salvus, -a, -um : safe, unharmed : XXVIII
+attentus, -a, -um : attentive : XXVIII
+tūtus, -a, -um : safe : XXVIII
+perīculōsus, -a, -um : dangerous, perilous : XXVIII
+quadrāgēsimus, -a, -um : fortieth : XXVIII
+disiungere : separate : XXVIII
+ēicere : throw out : XXVIII
+cessāre : leave off, cease : XXVIII
+oboedīre : obey : XXVIII
+adōrāre : worship, adore : XXVIII
+nāscī, nātum : be born : XXVIII
+morī, mortuum : die : XXVIII
+extendere, -disse, -tum : stretch out, extend : XXVIII
+apprehendere : seize : XXVIII
+memorāre : mention : XXVIII
+rogāre : ask, ask for : XXVIII
+ēvolvere, -visse, -lūtum : unroll : XXVIII
+suscitāre : wake up, rouse : XXVIII
+tumultuārī : make an uproar : XXVIII
+habēre : have, hold, consider : XXVIII
+rēgnāre : reign, rule : XXVIII
+versārī : move about, be present : XXVIII
+persuādēre, -sisse : persuade, convince : XXVIII
+salvāre : save : XXVIII
+perīre, -eō, -iisse : perish, be lost : XXVIII
+impendēre : threaten : XXVIII
+pervenīre : get to, reach : XXVIII
+vītāre : avoid : XXVIII
+spērāre : hope (for) : XXVIII
+servīre : be a slave, serve : XXVIII
+mālle, māluisse : prefer : XXVIII
+admīrārī : admire, wonder at : XXVIII
+potius : rather : XXVIII
+ultrum : whether : XXVIII
+velut : like, as : XXVIII
+balneum, -ī, n. : bath, bathroom : XXX
+hospes, -itis, m. : guest, guest-friend : XXX
+cēna, -ae, f. : dinner : XXX
+iter, itineris, n. : journey, march, way : XXX
+famēs, -is, f. : hunger, famine : XXX
+sitis, -is, f. : thirst : XXX
+bonum, -ī, n. : good, blessing : XXX
+trīclīnium, -ī, n. : dining-room : XXX
+culīna, -ae, f. : kitchen : XXX
+cocus, -ī, m. : cook : XXX
+minister, -trī, m. : servant : XXX
+medium, -ī, n. : middle, center : XXX
+convīvium, -ī, n. : dinner-party : XXX
+convīva, -ae, mf. : guest : XXX
+genus, -eris, n. : kind, sort : XXX
+vās, vāsis n. : vessel, bowl : XXX
+argentum, -ī, n. : silver : XXX
+holus, -eris, n. : vegetable : XXX
+nux, nucis, f. : nut : XXX
+carō, carnis, f. : flesh, meat : XXX
+sāl, salis, m. : salt, wit : XXX
+calida, -ae, f. : hot water : XXX
+merum, -ī, n. : neat wine : XXX
+lībertīnus, -ī, m. : freedman : XXX
+mel, mellis, n. : honey : XXX
+inexspectātus, -a, -um : unexpected : XXX
+tardus, -a, -um : slow, late : XXX
+dīligēns, -entis : careful, diligent : XXX
+iūcundus, -a, -um : pleasant, delightful : XXX
+molestus, -a, -um : troublesome : XXX
+īmus, -a, -um : lowest : XXX
+argenteus, -a, -um : silver-, of silver : XXX
+glōriōsus, -a, -um : glorious, boastful : XXX
+acūtus, -a, -um : sharp : XXX
+merus, -a, -um : pure, neat, undiluted : XXX
+acerbus, -a, -um : sour, bitter : XXX
+dulcis, -e : sweet : XXX
+recipere : receive, admit : XXX
+salvēre iubēre : greet : XXX
+vīsere, -sisse : go and see, visit : XXX
+requiēscere : rest : XXX
+fruī : enjoy : XXX
+nūntiāre : announce, report : XXX
+contrahere : draw together, wrinkle : XXX
+praeesse : be in charge (of) : XXX
+cēnāre : dine, have dinner : XXX
+perferre : carry, endure : XXX
+ēligere, -lēgisse, -lēctum : choose, select : XXX
+coquere, coxisse, coctum : cook : XXX
+exōrnāre : adorn, decorate : XXX
+parāre : prepare, make ready : XXX
+sternere, strāvisse, strātum : spread : XXX
+accubāre : recline at table : XXX
+accumbere, -cubuisse : lie down at table : XXX
+placēre : please : XXX
+gustāre : taste : XXX
+aspergere, -sisse, -sum : sprinkle, scatter (on) : XXX
+fundere, fūdisse, fūsum : pour, shed : XXX
+miscēre, miscuisse, mixtum : mix : XXX
+pōtāre : drink : XXX
+līberāre : free, set free : XXX
+apportāre : bring : XXX
+prōferre : bring forth, produce : XXX
+exhaurīre : drain, empty : XXX
+complēre, -ēvisse, -ētum : fill, complete : XXX
+singulī, -ae, -a : one (each), each : XXX
+bīnī, -ae, -a : two (each) : XXX
+ternī, -ae, -a : three (each) : XXX
+circiter : about : XXX
+diū : long (time) : XXX
+paulisper : for a short time : XXX
+dēmum : at last, only : XXX
+prīdem : long ago : XXX
+equidem : indeed, for my part : XXX
+sānē : certainly, quite : XXX
+vīlla, -ae, f. : country house, villa : V
+hortus, -ī, m. : garden : V
+rosa, -ae, f. : rose : V
+līlium, -ī, n. : lily : V
+nāsus, -ī, m. : nose : V
+ōstium, -ī, n. : door, entrance : V
+fenestra, -ae, f. : window : V
+ātrium, -ī, n. : main room, hall : V
+impluvium, -ī, n. : water basin : V
+aqua, -ae, f. : water : V
+peristȳlum, -ī, n. : peristyle : V
+cubiculum, -ī, n. : bedroom : V
+pulcher, -chra, -chrum : beautiful, fine : V
+foedus, -a, -um : ugly, hideous : V
+sōlus, -a, -um : alone, lonely : V
+habitāre : dwell, live : V
+amāre : love : V
+carpere : gather, pick, crop : V
+dēlectāre : delight, please : V
+agere : drive, do, perform : V
+etiam : also, even, yet : V
+cum : with : V
+sine : without : V
+ā/ab/abs : from, of, since, by : V
+ex/ē : out of, from, of, since : V
+ablātīvus : ablative : V
+fundus, -ī, m. : bottom : XXIX
+vīta, -ae, f. : life : XXIX
+lucrum, -ī, n. : profit, gain : XXIX
+spēs, -eī, f. : hope : XXIX
+dīvitiae, -ārum, fpl. : riches : XXIX
+iactūra, -ae, f. : throwing away, loss : XXIX
+laetitia, -ae, f. : joy : XXIX
+trīstitia, -ae, f. : sadness : XXIX
+nāvigātiō, -ōnis, f. : sailing, voyage : XXIX
+delphīnus, -ī, m. : dolphin : XXIX
+fidēs, -eī, f. : trust, faith, loyalty : XXIX
+fidicen, -inis, m. : lyre-player : XXIX
+cantus, -ūs, m. : singing, music : XXIX
+carmen, -inis, n. : song, poem : XXIX
+dorsum, -ī, n. : back : XXIX
+maleficium, -ī, n. : evil deed, crime : XXIX
+salūs, -ūtis, f. : safety, well-being : XXIX
+fūr, -is, m. : thief : XXIX
+fūrtum, -ī, n. : theft : XXIX
+beneficium, -ī, n. : benefit, favor : XXIX
+tyrannus, -ī, m. : tyrant : XXIX
+fēlīcitās, -ātis, f. : good fortune, luck : XXIX
+invidia, -ae, f. : envy : XXIX
+piscātor, -ōris, m. : fisherman : XXIX
+fortūna, -ae, f. : fortune : XXIX
+rēmus, -ī, m. : oar : XXIX
+pretiōsus, -a, -um : precious : XXIX
+mīrus, -a, -um : surprising, strange : XXIX
+maestus, -a, -um : sad, sorrowful : XXIX
+fēlīx, -īcis : fortunate, lucky : XXIX
+nōtus, -a, -um : known : XXIX
+ignārus, -a, -um : ignorant, unaware : XXIX
+nōbilis, -e : well known, famous : XXIX
+ignōtus, -a, -um : unknown : XXIX
+rapidus, -a, -um : rushing, rapid : XXIX
+celsus, -a, -um : tall : XXIX
+fallāx, -ācis : deceitful : XXIX
+vēlōx, -ōcis : swift, rapid : XXIX
+dēterrēre : deter : XXIX
+adicere : add : XXIX
+aestimāre : value, estimate : XXIX
+remanēre : remain, stay behind : XXIX
+querī, questum : complain, grumble : XXIX
+āmittere : lose : XXIX
+ēripere, ēripiō, ēripuisse, ēreptum : snatch away, deprive of : XXIX
+afficere : affect, stir : XXIX
+precārī : pray : XXIX
+perturbāre : upset : XXIX
+redūcere : lead back, bring back : XXIX
+invidēre : envy, grudge : XXIX
+parcere, pepercisse : spare : XXIX
+permittere : allow, permit : XXIX
+permovēre : move deeply : XXIX
+abstinēre : keep off : XXIX
+dēsilīre, -uisse : jump down : XXIX
+dēspērāre : lose hope, despair (of) : XXIX
+allicere, -iō, -ēxisse, -ectum : attract : XXIX
+subīre, -eō, -iisse : go under, undergo : XXIX
+expōnere : put out/ashore, expose : XXIX
+appārēre : appear : XXIX
+stupēre : be aghast : XXIX
+cōnfitērī, -fessum : confess : XXIX
+surripere, -iō, -uisse, -reptum : steal : XXIX
+abicere : throw away : XXIX
+dētrahere : pull off : XXIX
+suādēre, -sisse : advise : XXIX
+dōnāre : give, present with : XXIX
+secāre, -uisse, -ctum : cut : XXIX
+recognōscere : recognize : XXIX
+fīnīre : limit, finish : XXIX
+appropinquāre : approach, come near : XXIX
+nōnnūllī, -ae, -a : some, several : XXIX
+sēsē : himself : XXIX
+frūstrā : in vain : XXIX
+inde : from there, thence : XXIX
+prōtinus : at once : XXIX
+repente : suddenly : XXIX
+quasi : as, like, as if : XXIX
+nōnnumquam : sometimes : XXIX
+lūdus, -ī, m. : play, game, school : XV
+magister, -tri, m. : schoolmaster, teacher : XV
+discipulus, -ī, m. : pupil, disciple : XV
+virga, -ae, f.  : rod : XV
+sella, -ae, f.  : stool, chair : XV
+iānua, -ae, f.  : door : XV
+vērum : but : XV
+tergum, -ī, n. : back : XV
+malum, -ī, n. : evil, trouble, harm : XV
+lectulus, -ī, m. : (little) bed : XV
+sevērus, -a, -um : stern, severe : XV
+tacitus, -a, -um : silent : XV
+vērus, -a, -um : true : XV
+posterior, -ius : back-, hind-, later : XV
+īnferior, -ius : lower, inferior : XV
+prior, -ius : first, former, front- : XV
+pūnīre : punish : XV
+cōnsīdere, -sēdisse : sit down : XV
+exclāmāre : cry out, exclaim : XV
+dēsinere, -siisse : finish, stop, end : XV
+redīre, -eō, -iisse, -itum : go back, return : XV
+reddere, -didisse, -ditum : give back, give : XV
+recitāre : read aloud : XV
+licēre, licet : it is allowed, one may : XV
+sum : I am : XV
+es : he, she, it is : XV
+sumus : we are : XV
+estis : you (pl.) are : XV
+ego, mē, mihi/mī : I, me, myself : XV
+tū, tē, tibi : you, yourself : XV
+nōs, nōbīs : we, us, ourselves : XV
+vōs, vōbīs : you, yourselves : XV
+nōndum : not yet : XV
+statim : at once : XV
+tum : then : XV
+quid : what, anything : XV
+domī : at home : XV
+antequam : before : XV
+at : but : XV
+sī : if : XV
+nisi : if not, except, but : XV
+vōcālis, -is, f. : vowel : XVIII
+cōnsonāns, -antis, f. : consonant : XVIII
+zephyrus, -ī, m. : west wind : XVIII
+sententia, -ae, f.  : opinion, sentence : XVIII
+erus, -ī, m. : master : XVIII
+mendum, -ī, n. : mistake, error : XVIII
+cēra, -ae, f.  : wax : XVIII
+māteria, -ae, f.  : material, substance : XVIII
+apis, -is, f. : bee : XVIII
+ferrum, -ī, n. : iron, steel : XVIII
+epistula, -ae, f.  : letter : XVIII
+calamus, -ī, m. : reed, pen : XVIII
+charta, -ae, f.  : paper : XVIII
+papȳrus, -ī, f. : papyrus : XVIII
+mercēs, -ēdis, f. : wage, fee, rent : XVIII
+rārus, -a, -um : rare : XVIII
+frequēns, -entis : numerous, frequent : XVIII
+varius, -a, -um : varied, different : XVIII
+turpis, -e : ugly, foul : XVIII
+mollis, -e : soft : XVIII
+dūrus, -a, -um : hard : XVIII
+quālis, -e : what sort of, (such) as : XVIII
+tālis, -e : such : XVIII
+impiger, -gra, -grum : active, industrious : XVIII
+iungere, iūnxisse, iūnctum : join, combine : XVIII
+coniungere : join, connect : XVIII
+significāre : indicate, mean : XVIII
+legere, lēgisse, lēctum : read : XVIII
+intellegere, -ēxisse, -ēctum : understand, realize : XVIII
+scrībere, scrīpsisse, scrīptum : write : XVIII
+dictāre : dictate : XVIII
+comparāre : compare : XVIII
+exaudīre : hear : XVIII
+deesse, dēfuisse : be missing, fail : XVIII
+addere, -didisse, -ditum : add : XVIII
+corrigere, -rēxisse, -rēctum : correct : XVIII
+premere, pressisse, pressum : press : XVIII
+efficere : make, effect, cause : XVIII
+animadvertere : notice : XVIII
+superesse : be left, be in excess : XVIII
+dēlēre, -ēvisse, -ētum : delete, efface : XVIII
+signāre : mark, seal : XVIII
+imprimere, -pressisse, -pressum : press (into) : XVIII
+īdem, eadem, idem : the same : XVIII
+sīc : in this way, so, thus : XVIII
+ita : so, in such a way : XVIII
+quotiēs : how many times : XVIII
+totiēs : so many times : XVIII
+semel : once : XVIII
+bis : twice : XVIII
+ter : three times : XVIII
+quater : four times : XVIII
+quīnquiēs : five times : XVIII
+sexiēs : six times : XVIII
+deciēs : ten times : XVIII
+adverbium, -ī, n. : adverb : XVIII
+annus, -ī, m. : year : XIII
+mēnsis, -is, m. : month : XIII
+diēs, -ēī, m/f. : day, date : XIII
+saeculum, -ī, n. : century : XIII
+tempus, -oris, n. : time : XIII
+faciēs, -ēī, f. :face : XIII
+māne : morning, in the morning : XIII
+vesper, -erī, m. : evening : XIII
+nox, noctis, f. : night : XIII
+initium, -ī, n. : beginning : XIII
+hōra, -ae, f. : hour : XIII
+merīdiēs, -ēī, m. : midday, noon, south : XIII
+lūna, -ae, f. : moon : XIII
+stēlla, -ae, f. : star : XIII
+lūx, lūcis, f, : light, daylight : XIII
+fōrma, -ae, f. : form, shape, figure : XIII
+kalendae, -ārum, fpl. : the 1st (of the month) : XIII
+īdūs, -uum, fpl. : 13th/15th (of the month) : XIII
+nōnae, -ārum, fpl. : 5th/7th (of the month) : XIII
+aequinoctium, -ī, n. : equinox : XIII
+aestās, -ātis, f. : summer : XIII
+hiems, -mis, f. : winter : XIII
+vēr, vēris, n. : spring : XIII
+autumnus, -ī, m. : autumn : XIII
+imber, -bris, m. : rain, shower : XIII
+nix, nivis, f. : snow : XIII
+lacus, -ūs, m. : lake : XIII
+glaciēs, -ēī, f. : ice : XIII
+urbs, -bis, f. : city : XIII
+postrēmus, -a, -um :  last : XIII
+dīmidius, -a, -um : half : XIII
+aequus, -a, -um : equal, calm : XIII
+clārus, -a, -um : bright, clear, loud : XIII
+tōtus, -a, -um : the whole of, all : XIII
+obscūrus, -a, -um : dark : XIII
+exiguus, -a, -um : small, scanty : XIII
+calidus, -a, -um : warm, hot : XIII
+frīgidus, -a, -um : cold, chilly, cool : XIII
+indēclinābile : indeclinable : XIII
+ūndecim : eleven : XIII
+trīgintā : thirty : XIII
+sexāgintā : sixty : XIII
+ducentī, -ae, -a : two hundred : XIII
+trecentī, -ae, -a : three hundred : XIII
+quīntus, -a, -um : fifth : XIII
+sextus, -a, -um : sixth : XIII
+septimus, -a, -um : seventh : XIII
+octāvus, -a, -um : eighth : XIII
+nōnus, -a, -um : ninth : XIII
+decimus, -a, -um : tenth : XIII
+ūndecimus, -a, -um : eleventh : XIII
+duodecimus, -a, -um : twelfth : XIII
+nōmināre : name, call : XIII
+illūstrāre : illuminate, make clear : XIII
+incipere, incipiō, coepisse, coeptum : begin : XIII
+operīre, operuisse, operertum : cover : XIII
+velle : wish, want : XIII
+erat : was : XIII
+erant : were : XIII
+vel : or : XIII
+tunc : then : XIII
+nunc  : now : XIII
+igitur : therefore, then, so : XIII
+item : likewise, also : XIII
+quandō : when, as : XIII
+superlātīvus : superlative : XIII
+frāter, -tris, m. : brother : XII
+soror, -ōris, f. : sister : XII
+nōmen, -inis, n. : name : XII
+praenōmen, -inis, n. : first name : XII
+cognōmen, -inis, n. : surname : XII
+avunculus, -ī, m. : (maternal) uncle : XII
+mīles, -itis, m. : soldier : XII
+scūtum, -ī, n. : shield : XII
+gladius, -ī, m. : sword : XII
+pīlum, -ī, n. : spear, javelin : XII
+arma, -ōrum, npl : arms : XII
+arcus, -ūs, m. : bow : XII
+sagitta, -ae, f. : arrow : XII
+pugnus, -ī, m. : fist : XII
+hasta, -ae, f. : lance : XII
+pedes, -itis, m. : foot-soldier : XII
+eques, -itis, m. : horseman : XII
+pars, -rtis, f. : part, direction : XII
+fīnis, -is, m. : boundary, limit, end : XII
+patria, -ae, f. : native country/town : XII
+hostis, -is, m. : enemy : XII
+bellum, -ī, n. : war : XII
+exercitus, -ūs, m. : army : XII
+dux, ducis, m. : leader, chief, general : XII
+castra, -ōrum, npl. : camp : XII
+passus, -ūs, m. : pace (1.48 m) : XII
+fossa, -ae, f. : ditch, trench : XII
+vāllum, -ī, n. : rampart : XII
+equitātus, -ūs, m. : cavalry : XII
+impetus, -ūs, m. : attack, charge : XII
+metus, -ūs, m. : fear : XII
+versus : toward : XII
+mīlle, mīlia, -ium, n. : thousand : XII
+trīstis, -e : sad : XII
+armātus, -a, -um : armed : XII
+brevis, -e : short : XII
+gravis, -e : heavy, severe, grave : XII
+levis, -e : light, slight : XII
+barbarus, -a, -um : foreign, barbarian : XII
+altus, -a, -um : high, tall, deep : XII
+lātus, -a, -um : broad, wide : XII
+fortis, -e : strong, brave : XII
+vester, -tra, -trum : your, yours : XII
+ferre, tulisse, lātum : carry, bring, bear : XII
+pugnāre : fight : XII
+incolere : inhabit : XII
+dīvidere, -īsisse, -īsum : separate, divide : XII
+oppugnāre : attack : XII
+metuere, -uisse : fear : XII
+mīlitāre : serve as a soldier : XII
+dēfendere, -disse, -ēnsum : defend : XII
+iacēre : lie : XII
+expugnāre : conquer : XII
+fugere, -iō, fūgisse : run away, flee : XII
+contrā : against : XII
+ac : and : XII
+adiectīvum : adjective : XII
+comparātīvus : comparative : XII
+taberna, -ae, f. : shop, stall : VIII
+gemma, -ae, f. : precious stone, jewel : VIII
+margarīta, -ae, f. : pearl : VIII
+tabernārius, -ī, m. : shopkeeper : VIII
+ōrnāmentum, -ī, n. : ornament, jewel : VIII
+ānulus, -ī, m. : ring : VIII
+līnea, -ae, f. : string, line : VIII
+digitus, -ī, m. : finger : VIII
+collum, -ī, n. : neck : VIII
+pretium, -ī, n. : price, value : VIII
+sēstertius, -ī, m. : sesterce (coin) : VIII
+pecūniōsus, -a, -um : wealthy : VIII
+gemmātus, -a, -um : set with a jewel : VIII
+medius, -a, -um : mid, middle : VIII
+quārtus, -a, -um : fourth : VIII
+vīgintī : twenty : VIII
+octōgintā : eighty : VIII
+nōnāgintā : ninety : VIII
+vēn-dere, -didisse : sell : VIII
+cōnsistere, -stitisse : stop, halt : VIII
+emere, ēmisse, ēmptum : buy : VIII
+aspicere : look at, look : VIII
+abīre, -eō, -iisse : go away : VIII
+accipere : receive : VIII
+ōrnāre : equip, adorn : VIII
+clāmāre : shout : VIII
+mōnstrāre : point out, show : VIII
+ostendere, -disse : show : VIII
+cōnstāre, -stitisse : be fixed, cost : VIII
+convenīre : come together, meet : VIII
+alius, -a, -ud : another, other : VIII
+ille, -a, -ud : that, the one, he : VIII
+tantus, -a, -um : so big, so great : VIII
+quantus, -a, -um : how large, (as large) as : VIII
+satis : enough, rather : VIII
+nimis : too, too much : VIII
+aut : or : VIII
+prōnōmen, -inis, n. : pronoun : VIII
+oculus, -ī, m. : eye : VII
+lacrima, -ae. f. : tear : VII
+speculum, -ī, n. : mirror : VII
+ōstiārius, -ī, m. : door-keeper, porter : VII
+mālum, -ī, n. : apple : VII
+pirum, -ī, n. : pear : VII
+ōsculum, -ī, n. : kiss : VII
+fōrmōsus, -a, -um : beautiful : VII
+plēnus, -a, -um : full (of) : VII
+exspectāre : wait (for), expect : VII
+tenēre, -uisse, -ntum : hold, keep (back) : VII
+lacrimāre : shed tears, weep : VII
+aperīre, -uisse, -rtum : open, disclose : VII
+claudere, -sisse, -sum : shut, close : VII
+vertere, -tisse, -sum : turn : VII
+tergēre, -sisse, -sum : wipe : VII
+advenīre : arrive : VII
+inesse : be (in) : VII
+dare, dedisse, datum : give : VII
+adesse, affuisse : be present, stand by : VII
+currere, cucurrisse : run : VII
+exīre, -eō, -iisse, -itum : go out : VII
+esse, sum, fuisse, futūrum esse : be : VII
+sē, sibi : himself : VII
+hic, haec, hoc : this : VII
+immō : no, on the contrary : VII
+nōnne : not? : VII
+et…et : both…and : VII
+neque ... neque : neither  ... nor : VII
+sōlum : only : VII
+illīc : there : VII
+ē : out of, from, of, since : VII
+datīvus : dative : VII
+scaena, -ae, f. : scene, stage : III
+persōna, -ae, f. : person : III
+mamma, -ae, f. : mommy : III
+laetus, -a, -um : glad, happy : III
+īrātus, -a, -um : angry : III
+probus, -a, -um : good, honest, proper : III
+improbus, -a, -um : bad, wicked : III
+cantāre : sing : III
+pulsāre : strike, hit, knock (at) : III
+plōrāre : cry : III
+rīdēre : laugh, make fun of : III
+vidēre : see, seem : III
+vocāre : call, invite : III
+venīre : come : III
+interrogāre : ask, question : III
+respondēre : answer : III
+dormīre : sleep : III
+audīre : hear, listen : III
+verberāre : beat, flog : III
+mē : me (acc.) : III
+tē : you (acc.) : III
+eum : him (acc.) : III
+eam : her (acc.) : III
+neque : and nothing : III
+iam : now, already : III
+cūr : why : III
+quia : because : III
+ō : o! : III
+hīc : here : III
+quī, quae, quod : who, which, he who : III
+quem : which (masc acc.) : III
+quam : which (fem. acc.) : III
+nōminātīvus : nominative : III
+accūsātīvus : accusative : III
+verbum : verb : III
+signum, -ī, n. : sign
+littera, -ae, f. : letter
+vultus, -ūs, m. : countenance, face
+laus, laudis, f. : praise
+factum, -ī, n. : deed, act
+pudor, -ōris, m. : (sense of) shame
+prōmissum, -ī, n. : promise
+verbera, -um, npl. : lashes, flogging
+clāvis, -is, f. : key
+comes, -itis, m. : companion
+integer, -gra, -grum : undamaged, intact
+pallidus, -a, -um : pale
+plānus, -a, -um : plain, clear
+superior, -ius : higher, upper, superior
+trādere, -didisse, -ditum : hand over, deliver
+dīmittere : send away, dismiss
+continēre, -uisse, -tentum : contain
+salūtem dīcere : greet
+pallēre : be pale
+solvere, solvisse, solūtum : untie, discharge, pay
+merēre : earn, deserve
+āvertere : turn aside, avert
+īnscrībere : write on, inscribe
+negāre : deny, say that…not
+fatērī, fassum : admit, confess
+perdere, -didisse, -ditum : destroy, ruin, waste
+pudēre: to make one ashamed (of)
+rubēre : be red, blush
+prōmittere : promise
+inclūdere, -sisse, -sum : shut up
+comitārī : accompany
+illinc : from there
+hinc : from here, hence
+quisnam, quidnam : whoever?, what ever?
+fortasse : perhaps, maybe
+umquam : ever
+posthāc : from now on, hereafter
+antehāc : formerly
+herī : yesterday
+ob : on account of
+uxor, -ōris f. : wife : XIX
+marītus, -ī, m. : husband : XIX
+columna, -ae, f.  : column : XIX
+signum, -ī, n. : sign, seal, statue : XIX
+tēctum, -ī, n. : roof : XIX
+dea, -ae, f.  : goddess : XIX
+coniūnx, -iugis, mf. : consort, wife : XIX
+mātrōna, -ae, f.  : married woman : XIX
+amor, -ōris, m. : love : XIX
+pulchritūdō, -inis, f. : beauty : XIX
+adulēscēns, -entis, m. : young man : XIX
+virgō, -inis, f. : maiden, young girl : XIX
+domus, -ūs, f. : house, home : XIX
+templum, -ī, n. : temple : XIX
+forum, -ī, n. : square : XIX
+dōnum, -ī, n. : gift, present : XIX
+flōs, -ōris, m. : flower : XIX
+melior, -ius : better : XIX
+pēior, -ius : worse : XIX
+optimus, -a, -um : best, very good : XIX
+pessimus, -a, -um : worst : XIX
+māior, -ius : bigger, older : XIX
+minor, -us : smaller, younger : XIX
+māximus, -a, -um : biggest, greatest, oldest : XIX
+minimus, -a, -um : smallest, youngest : XIX
+magnificus, -a, -um : magnificent, splendid : XIX
+plūrēs, -a : more : XIX
+plūrimī, -ae, -a : most, a great many : XIX
+dīves, -itis : rich, wealthy : XIX
+pauper, -eris : poor : XIX
+miser, -era, -erum : unhappy, miserable : XIX
+beātus, -a, -um : happy : XIX
+dignus, -a, -um : worthy : XIX
+gracilis, -e : slender : XIX
+convenīre : fit, be fitting : XIX
+possidēre, -sēdisse : possess, own : XIX
+mittere, mīsisse, missum : send, throw : XIX
+remittere : send back : XIX
+ōsculārī : kiss : XIX
+minuere, -uisse, -ūtum : diminish, reduce : XIX
+augēre, auxisse, auctum : increase : XIX
+opus esse : needed : XIX
+ūllus, -a, -um : any : XIX
+tamen : nevertheless, yet : XIX
+cotīdiē : every day : XIX
+minus, -ōris : less : XIX
+plūs, plūris, n, : more : XIX
+ergā : toward : XIX
+praesēns : present : XIX
+praeteritum : preterite, past tense : XIX
+vestis, -is, f. : clothes, cloth : XXI
+genū, -ūs n. : knee : XXI
+humus, -ī f. : ground : XXI
+cruor, -ōris, m. : blood-stained, bloody : XXI
+bōs, bovis, mf. : ox : XXI
+cornū, -ūs, n. : horn : XXI
+causa, -ae, f.  : cause, reason : XXI
+porcus, -ī, m. : pig : XXI
+pugna, -ae, f.  : fight : XXI
+sordēs, -ium, fpl. : dirt : XXI
+solum, -ī, n. : soil, ground, floor : XXI
+tabella, -ae, f.  : writing-tablet : XXI
+mundus, -a, -um : clean, neat : XXI
+candidus, -a, -um : white, bright : XXI
+angustus, -a, -um : narrow : XXI
+validus, -a, -um : strong : XXI
+indignus, -a, -um : unworthy, shameful : XXI
+falsus, -a, -um : false : XXI
+cognōscere, -ōvisse, -itum : get to know, recognize : XXI
+cōnspicere : catch sight of, see : XXI
+excūsāre : excuse : XXI
+vincere, vīcisse, victum : defeat, overcome, win : XXI
+nārrāre : relate, tell : XXI
+mūtāre : change, exchange : XXI
+mentīrī : lie : XXI
+crēdere, -didisse : believe, trust, entrust : XXI
+fallere, fefellisse, falsum : deceive : XXI
+dubitāre : doubt : XXI
+fuisse : was : XXI
+āiō, ais, ait, āiunt : say : XXI
+aliquis, aliquid : someone, something : XXI
+humī : on the ground : XXI
+interim : meanwhile : XXI
+postquam : after, since : XXI
+perfectum : perfect : XXI
+imperfectum : imperfect : XXI
+campus, -ī, m. : field, plain : IX
+pāstor, -ōris, m. : shepherd : IX
+canis, -is, m/f. : dog : IX
+ovis, -is, f. : sheep : IX
+cibus, -ī, m. : food : IX
+herba, -ae, f. : grass, herb : IX
+rīvus, -ī, m. : brook : IX
+pānis, -is, m. : bread, loaf : IX
+mōns, montis, m. : mountain : IX
+vallis, -is, f. : valley : IX
+collis, -is, m. : hill : IX
+arbor, -oris, f. : tree : IX
+silva, -ae, f. : wood, forest : IX
+lupus, -ī, m. : wolf : IX
+sōl, -is, m. : sun : IX
+caelum, -ī, n. : sky, heaven : IX
+terra, -ae, f. : earth, ground, country : IX
+nūbēs, -is, f. : cloud : IX
+umbra, -a, f. : shade, shadow : IX
+vestīgium, -ī, n. : footprint, trace : IX
+timor, -ōris, m. : fear : IX
+dēns, dentis, m. : tooth : IX
+clāmor, -ōris, m. : shout, shouting : IX
+modus, -ī, m. : manner, way : IX
+niger, -gra, -grum : black : IX
+albus, -a, -um : white : IX
+ūndēcentum : ninety-nine : IX
+ēsse, edō, ēdisse, ēsum : eat : IX
+bibere, -bisse : drink : IX
+lūcēre, lūxisse : shine : IX
+petere, -īvisse, -ītum : make for, aim at, attack, seek, ask for, request : IX
+dūcere, -xisse, ductum : guide, lead, draw, trace : IX
+iacere, -iō, iēcisse, iactum : throw, hurl : IX
+relinquere, -līquisse, -lictum : leave : IX
+lātrāre : bark : IX
+errāre : wander, stray : IX
+quaerere, -sīvisse, -sītum : look for, seek, ask (for) : IX
+reperīre, repperisse, repertum : find : IX
+ululāre : howl : IX
+bālāre : bleat : IX
+accurrere, -rrisse : come running : IX
+impōnere : place (in/on), put : IX
+ipse, -a, -um : himself : IX
+procul : far (from), far away : IX
+suprā : above : IX
+sub : under, near : IX
+dum : while, as long as, till : IX
+ut : like, as : IX
+dēclīnātiō, -ōnis, f. : declension : IX
+dēclīnāre : decline, inflect : IX
+fuga, -ae, f. : flight : XXVI
+cōnsilium, -ī, n. : advice, decision, intention, plan : XXVI
+carcer, -eris m. : prison : XXVI
+orbis, -is m. : circle, orbit : XXVI
+nātūra, -ae, f. : nature : XXVI
+ars, artis, f. : art, skill : XXVI
+opus, -eris, n. : work : XXVI
+penna, -ae, f. : feather : XXVI
+ignis, -is, m. : fire : XXVI
+lacertus, -ī, m. : (upper) arm : XXVI
+lībertās, -ātis, f. : freedom, liberty : XXVI
+multitūdō, -inis, f. : large number, multitude : XXVI
+paenīnsula, -ae, f. : peninsula : XXVI
+cāsus, -ūs, m. : fall, case : XXVI
+celer, -eris, -ere : swift, quick : XXVI
+reliquus, -a, -um : remaining, left : XXVI
+audāx, -ācis : bold, audacious : XXVI
+līber, -era, -erum : free : XXVI
+studiōsus, -a, -um : interested (in) : XXVI
+ingēns, -entis : huge, vast : XXVI
+īnfimus, -a, -um : lowest : XXVI
+summus, -a, -um : highest, greatest : XXVI
+cautus, -a, -um : cautious : XXVI
+temerārius, -a, -um : reckless : XXVI
+propinquus, -a, -um : near, close : XXVI
+persequī : follow, pursue : XXVI
+cōnsequī : follow, overtake : XXVI
+cōnficere : make, accomplish : XXVI
+cōnsūmere : spend, consume : XXVI
+invenīre : find : XXVI
+effugere : escape, run away : XXVI
+iuvāre, iūvisse, iūtum : help, delight : XXVI
+excōgitāre : think out, devise : XXVI
+imitārī : imitate : XXVI
+ēvolāre : fly out : XXVI
+perficere : complete, accomplish : XXVI
+mollīre : make soft, soften : XXVI
+fīgere, fixisse, fixum : fix, fasten : XXVI
+levāre : lift, raise : XXVI
+ūrere, ussisse, ustum : burn : XXVI
+suspicere : look up (at) : XXVI
+dēspicere : look down (on), despise : XXVI
+accidere, -disse : happen, occur : XXVI
+quatere, -iō : shake : XXVI
+aberrāre : wander away, stray : XXVI
+revocāre : call back, revoke : XXVI
+vidērī : seem, appear : XXVI
+estō: be : XXVI
+quisquam : anyone : XXVI
+sūrsum : up, upward : XXVI
+deorsum : down : XXVI
+haud : not : XXVI
+paene : nearly, almost : XXVI
+quidem : indeed, certainly : XXVI
+tamquam : as, like : XXVI
+quoniam : as, since : XXVI
+sīn : but if : XXVI
+trāns : across, over : XXVI
+gerundium, -ī, n. : gerund : XXVI
+ager, -grī m. : field : XXVII
+frūmentum, -ī, n. : corn, grain : XXVII
+agricola, -ae, m. : farmer, peasant : XXVII
+negōtium, -ī, n. : business, activity : XXVII
+arātrum, -ī, n. : plough : XXVII
+īnstrūmentum, -ī, n. : tool, instrument : XXVII
+sēmen, -inis n. : seed : XXVII
+falx, -cis, f. : sickle : XXVII
+regiō, -ōnis, f. : region, district : XXVII
+frūgēs, -um, fpl. : fruit, crops : XXVII
+pecus, -oris, n. : livestock, sheep, cattle : XXVII
+pābulum, -ī, n. : fodder : XXVII
+lāna, -ae, f. : wool : XXVII
+cōpia, -ae, f. : abundance, lot : XXVII
+vītis, -is, f. : vine : XXVII
+vīnea, -ae, f. : vinyard : XXVII
+ūva, -ae, f. : grape : XXVII
+vīnum, -ī, n. : wine : XXVII
+praedium, -ī, n. : estate : XXVII
+labor, -ōris, m. : work, toil : XXVII
+rūs, rūris, n. : the country : XXVII
+ōtium, -ī, n. : leisure : XXVII
+colōnus, -ī, m. : (tenant-) farmer : XXVII
+patientia, -ae, f. : forbearance, patience : XXVII
+cūra, -ae, f. : care, anxiety : XXVII
+precēs, -um, fpl. : prayers : XXVII
+calor, -ōris, m. : warmth, heat : XXVII
+frīgus, -oris, n. : cold : XXVII
+grex, -egis, m. : flock, herd, band : XXVII
+amoenus, -a, -um : lovely, pleasant : XXVII
+mātūrus, -a, -um : ripe : XXVII
+rudis, -e : crude, rude : XXVII
+fertilis, -e : fertile : XXVII
+suburbānus, -a, -um : near the city : XXVII
+urbānus, -a, -um : of the city, urban : XXVII
+patiēns, -entis : patient : XXVII
+rūsticus, -a, -um : rural, rustic, farm- : XXVII
+gravida : pregnant : XXVII
+siccus, -a, -um : dry : XXVII
+neglegēns, -entis : careless : XXVII
+nēquam : worthless, bad : XXVII
+immātūrus, -a, -um : unripe : XXVII
+inhūmānus, -a, -um : inhuman : XXVII
+trīcēsimus, -a, -um : thirtieth : XXVII
+quiēscere, -ēvisse : rest : XXVII
+cingere, cīnxisse, cīnctum : surround : XXVII
+crēscere, -ēvisse : grow : XXVII
+metere : reap, harvest : XXVII
+arāre : plow : XXVII
+serere, sēvisse, satum : sow, plant : XXVII
+colere, -uisse, cultum : cultivate : XXVII
+spargere, -sisse, -sum : scatter : XXVII
+ūtī, ūsum : use, enjoy : XXVII
+pāscere, pāvisse, pāstum : pasture, feed, feast : XXVII
+invehere : import : XXVII
+rigāre : irrigate : XXVII
+labōrāre : toil, work, take trouble : XXVII
+exīstimāre : consider, think : XXVII
+cēnsēre, -uisse, -sum : think : XXVII
+prōicere : throw (forward) : XXVII
+ōrāre : pray, beg : XXVII
+rapere, rapiō, rapuisse, raptum : tear away, carry off : XXVII
+neglegere, -ēxisse, -ēctum : neglect : XXVII
+prōdesse, prōfuisse : be useful, do good : XXVII
+nocēre : harm, hurt : XXVII
+prohibēre : keep off, prevent : XXVII
+quīdam, quaedam, quodam : a certain, some : XXVII
+parum : too little, not quite : XXVII
+tantum : so much, only : XXVII
+dēnique : finally, at last : XXVII
+circā : round : XXVII
+prae : before, for : XXVII
+prō : for, instead of : XXVII
+ā/ab/abs : from, of, since, by : XXVII
+ve : or : XXVII
+nē : that not, lest, that : XXVII
+coniūnctīvus : subjunctive : XXVII
+fābula, -ae, f. : story, fable, play : XXV
+agnus, -ī, m. : lamb : XXV
+currus, -ūs, m. : chariot : XXV
+moenia, -ium, npl. : walls : XXV
+mōnstrum, -ī, n. : monster : XXV
+taurus, -ī, m. : bull : XXV
+labyrinthus, -ī, m. : labyrinth : XXV
+aedificium, -ī, n. : building : XXV
+mors, mortis, f. : death : XXV
+rēx, rēgis, m. : king : XXV
+expugnātiō, -ōnis, f. : conquest : XXV
+glōria, -ae, f. : glory : XXV
+auxilium, -ī, n. : help, assistance : XXV
+cīvis, -is, mf. : citizen, countryman : XXV
+exitus, -ūs, m. : exit, way out, end : XXV
+fīlum, -ī, n. : thread : XXV
+mora, -ae, f. : delay : XXV
+nex, necis, f. : killing, murder : XXV
+lītus, -oris n. : beach, shore : XXV
+saxum, -ī, n. : rock : XXV
+cōnspectus, -ūs, m. : sight, view : XXV
+cupiditās, -ātis, f. : desire : XXV
+nārrātiō, -ōnis, f. : narrative : XXV
+humilis, -e : low : XXV
+timidus, -a, -um : fearful, timid : XXV
+terribilis, -e : terrible : XXV
+mīrābilis, -e : marvelous, wonderful : XXV
+saevus, -a, -um : fierce, cruel : XXV
+cupidus, -a, -um : desirous (of), eager (for) : XXV
+parātus, -a, -um : ready : XXV
+regere, rēxisse, rēctum : direct, guide, govern : XXV
+trahere, trāxisse, tractum : drag, pull : XXV
+interficere : kill : XXV
+aedificāre : build : XXV
+vorāre : swallow, devour : XXV
+patēre : be open : XXV
+necāre : kill : XXV
+cōnstituere, -uisse, -ūtum : fix, decide : XXV
+occīdere, - disse, -sum : kill : XXV
+pollicērī : promise : XXV
+prōspicere : look out, look ahead : XXV
+dēscendere, -disse : go down, descend : XXV
+maerēre : grieve : XXV
+dēserere, -uisse, -rtum : leave, desert : XXV
+oblīvīscī, -lītum : forget : XXV
+complūrēs, -a : several : XXV
+forte : by chance : XXV
+quotannīs : every year : XXV
+ōlim : once, long ago : XXV
+ibi : there : XXV
+illūc : there, thither : XXV
+hūc : here, to this place : XXV
+brevī : soon : XXV
+via, -ae, f. : road, way, street : VI
+mūrus, -ī, m. : wall : VI
+porta, -ae, f. : gate : VI
+lectīca, -ae, f. : litter, sedan : VI
+saccus, -ī, m. : sack : VI
+umerus, -ī, m. : shoulder : VI
+amīcus, -ī, m. : friend : VI
+inimīcus, -ī, m. : (personal) enemy : VI
+equus, -ī, m. : horse : VI
+amīca, -ae, f. : girlfriend : VI
+longus, -a, -um : long : VI
+malus, -a, -um : bad, wicked, evil : VI
+fessus, -a, -um : tired, weary : VI
+duodecim	: twelve : VI
+īre, eō, iisse, itum : go : VI
+portāre : carry : VI
+ambulāre : walk : VI
+vehere, vēxisse, vectum : carry, convey, pass ride, sail, travel : VI
+timēre : fear, be afraid (of) : VI
+intrāre : enter : VI
+tam : so, as : VI
+quam : how, as, than : VI
+inter : between, among, during : VI
+prope : near, nearly : VI
+procul : far (from), far away : VI
+circum : round : VI
+ad : to, toward, by, at, till : VI
+ante : in front of, before : VI
+post : behind, after, later : VI
+ā/ab/abs : from, of, since, by : VI
+apud : beside, near, by : VI
+per : through, by, during : VI
+nam : for : VI
+itaque : therefore : VI
+autem : but, however : VI
+unde : from where : VI
+quō : where (to) : VI
+praepositiō, -ōnis, f. : preposition : VI
+locātīvus : locative : VI
+āctīvum : active : VI
+passīvum : passive : VI

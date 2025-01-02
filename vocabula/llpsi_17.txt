@@ -1,0 +1,65 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 17
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+respōnsum, -ī, n. : answer
+as, assis, m. : as (copper coin)
+dēnārius, -ī, m. : denarius (silver coin)
+doctus, -a, -um : learned, skilled
+indoctus, -a, -um : ignorant
+piger, -gra, -grum : lazy
+prūdēns, -entis : prudent, clever
+industrius, -a, -um : industrious
+rēctus, -a, -um : straight, correct
+prāvus, -a, -um : faulty, wrong
+facilis, -e : easy
+difficilis, -e : difficult, hard
+absēns, -entis : absent
+certus, -a, -um : certain, sure
+incertus, -a, -um : uncertain
+largus, -a, -um : generous
+centēsimus, -a, -um : hundredth
+trēdecim : thirteen
+quattuordecim : fourteen
+quīndecim : fifteen
+sēdecim : sixteen
+septendecim : seventeen
+duodēvīgintī : eighteen
+ūndēvīgintī : nineteen
+quadrāgintā : forty
+quīnquāgintā : fifty
+septuāgintā : seventy
+quadringentī, -ae, -a : four hundred
+quīngentī, -ae, -a : five hundred
+sescentī, -ae, -a : six hundred
+septingentī, -ae, -a : seven hundred
+octingentī, -ae, -a : eight hundred
+nōngentī, -ae, -a : nine hundred
+discere didicisse : learn
+docēre, -uisse, doctum : teach, instruct
+scīre : know
+nescīre : not know
+tollere, sustulisse, sublātum : raise, lift, pick up, remove, take away
+interpellāre : interrupt
+laudāre : praise
+cōgitāre : think
+reprehendere : blame, censure
+prōmere, prōmpsisse, prōmptum : take out
+oportēre  : be right, should
+computāre : calculate, reckon
+repōnere : put back
+largīrī : give generously
+dēmōnstrāre : point out, show
+partīrī : share, divide
+quisque, quaeque, quodque : each
+tot : so many
+postrēmō : finally
+rēctē : correctly, properly, well
+prāvē : incorrectly, wrongly
+aequē : equally
+ūsque : up (to), all the time
+numquam : never
+saepe : often
+quamquam : although
+quārē : why
+# end

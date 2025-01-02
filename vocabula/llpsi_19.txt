@@ -1,0 +1,55 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 19
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+uxor, -ōris f. : wife
+marītus, -ī, m. : husband
+columna, -ae, f.  : column
+signum, -ī, n. : sign, seal, statue
+tēctum, -ī, n. : roof
+dea, -ae, f.  : goddess
+coniūnx, -iugis, mf. : consort, wife
+mātrōna, -ae, f.  : married woman
+amor, -ōris, m. : love
+pulchritūdō, -inis, f. : beauty
+adulēscēns, -entis, m. : young man
+virgō, -inis, f. : maiden, young girl
+domus, -ūs, f. : house, home
+templum, -ī, n. : temple
+forum, -ī, n. : square
+dōnum, -ī, n. : gift, present
+flōs, -ōris, m. : flower
+melior, -ius : better
+pēior, -ius : worse
+optimus, -a, -um : best, very good
+pessimus, -a, -um : worst
+māior, -ius : bigger, older
+minor, -us : smaller, younger
+māximus, -a, -um : biggest, greatest, oldest
+minimus, -a, -um : smallest, youngest
+magnificus, -a, -um : magnificent, splendid
+plūrēs, -a : more
+plūrimī, -ae, -a : most, a great many
+dīves, -itis : rich, wealthy
+pauper, -eris : poor
+miser, -era, -erum : unhappy, miserable
+beātus, -a, -um : happy
+dignus, -a, -um : worthy
+gracilis, -e : slender
+convenīre : fit, be fitting
+possidēre, -sēdisse : possess, own
+mittere, mīsisse, missum : send, throw
+remittere : send back
+ōsculārī : kiss
+minuere, -uisse, -ūtum : diminish, reduce
+augēre, auxisse, auctum : increase
+opus esse : needed
+ūllus, -a, -um : any
+tamen : nevertheless, yet
+cotīdiē : every day
+minus, -ōris : less
+plūs, plūris, n, : more
+ergā : toward
+praesēns : present
+praeteritum : preterite, past tense
+# end

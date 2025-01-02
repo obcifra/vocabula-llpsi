@@ -1,0 +1,73 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 16
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0
+# by Paul Denisowski (paul@denisowski.org)
+nāvis, -is, f. : ship
+portus, -ūs, m. : harbor
+locus, -ī, m. : place
+ōra, -ae, f.  : border, coast
+merx, -rcis, f. : commodity, (pl) goods
+nauta, -ae, m. : sailor
+ventus, -ī, m. : wind
+tempestās, -ātis, f. : storm
+flūctus, -ūs, m. : wave
+vēlum, -ī, n. : sail
+puppis, -is, f. : stern, poop
+gubernātor, -ōris, m. : steersman
+oriēns, -entis, m. : east
+occidēns, -entis, m. : west
+septentriōnēs, -um, mpl. : north
+altum, -ī, n. : the open sea
+tonitrus, -ūs, m. : thunder
+fulgur, -uris, n. : flash of lightning
+situs, -a, -um : situated
+superus, -a, -um : upper
+īnferus, -a, -um : lower
+maritimus, -a, -um : sea-, coastal
+tranquillus, -a, -um : calm, still
+turbidus, a, -um : agitated, stormy
+contrārius, -a, -um : opposite, contrary
+serēnus, -a, -um : clear, cloudless
+āter, -tra, -trum : black, dark
+interesse : be between
+appellāre : call, address
+nāvigāre : sail
+īnfluere : flow into
+opperīrī, -ertum : wait (for), await
+flāre : blow
+turbāre : stir up, agitate
+implēre, -ēvisse, -ētum : fill, complete
+ēgredī, -ior, -gressum : go out
+gubernāre : steer, govern
+orīrī, ortum : rise, appear
+occidere, -disse : fall, sink, set
+cōnscendere, -disse : mount, board
+proficīscī, -fectum : set out, depart
+sequī, secūtum : follow
+cernere, crēvisse : discern, perceive
+laetārī : rejoice, be glad
+verērī : fear
+intuērī : look at, watch
+lābī, lāpsum : slip, drop, fall
+complectī, -exum : embrace
+cōnsōlārī : comfort, console
+loquī, locūtum : speak, talk
+invocāre : call upon, invoke
+iactāre : throw, toss about
+haurīre, -sisse, -stum : draw (water), bail
+servāre : preserve, save
+cōnārī : attempt, try
+fierī, factum, esse : be made, be done, become, happen
+fit : it happens, it becomes
+fiunt : they happen, they become
+paulum : a little, little
+semper : always
+simul : together, at the same time
+vix : hardly
+praetereā : besides
+iterum : again, a second time
+sīve : or, or if
+vērō : really, however, but
+propter : because of
+dēpōnens : deponent
+# end

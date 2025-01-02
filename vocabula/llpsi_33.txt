@@ -1,0 +1,79 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 33
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0
+# by Paul Denisowski (paul@denisowski.org)
+legiō, -ōnis, f. : legion
+cohors, -rtis, f. : cohort
+agmen, -inis, n. : army on the march, file
+ōrdō, -inis, m. : row, rank, order
+aciēs, -ēī, f. : line of battle
+proelium, -ī, n. : battle
+imperātor, -ōris, m. : (commanding) general
+aetās, -ātis, f. : age
+studium, -ī, n. : interest, study
+stipendium, -ī, n. : soldier's pay, service
+virtūs, -ūtis, f. : valor, courage
+gaudium, -ī, n. : joy, delight
+valētūdō, -inis, f. : health
+amnis, -is, m. : river
+ratis, -is, f. : raft
+rīpa, -ae, f. : bank
+caedēs, -is, f. : killing, slaughter
+vulnus, -eris, n. : wound
+pāx, pācis, f. : peace
+lēgātus, -ī, m. : envoy, delegate
+ēnsis, -is, m. : sword
+legiōnārius, -a, -um : legionary
+idōneus, -a, -um : fit, suitable
+mīlitāris, -e : military
+pūblicus, -a, -um : public, State-
+prīvātus, -a, -um : private
+posterus, -a, -um : next, following
+arduus, -a, -um : steep
+rīdiculus, -a, -um : ridiculous
+ulterior, -ius : farther, more distant
+citerior, -ius : nearer
+incolumis, -e : unharmed, safe
+ōtiōsus, -a, -um : leisured, idle
+dīrus, -a, -um : dreadful
+horrendus, -a, -um : dreadful
+dēnī, -ae, -a : ten (each)
+sēnī, -ae, -a : six (each)
+quīnī, -ae, -a : five (each)
+quaternī, -ae, -a : four (each)
+ūnī, -ae, -a : one
+trīnī, -ae, -a : three
+adiungere : join to, add
+prōgredī, -ior, -gressum : go forward, advance
+īnstruere, -ūxisse, -ūctum : draw up, arrange
+hortārī : encourage, urge
+caedere, cecidisse, caesum : beat, fell, kill
+circumdare : surround
+mūnīre : fortify
+commemorāre : mention
+studēre : devote oneself to
+cōgere coēgisse, coāctum : compel, force
+fatīgāre : tire out, weary
+properāre : hurry
+dēsīderāre : long for, miss
+trānsferre : transfer, transport
+effundere : pour out, shed
+praestāre, -stitisse : furnish, fulfill
+trānsīre, -eō, -iisse, -itum : cross, pass
+cōpulāre : join, connect
+convocāre : call together
+excurrere, -rrisse, -rsum : run out, rush out
+prōcurrere, -rrisse, -rsum : run forward, charge
+ērumpere : break out
+vulnerāre : wound
+plērīque, plēraeque, plēraque : most, most people
+prīdiē : the day before
+praecipuē : especially, above all
+tamdiū : so long, as long
+quamdiū : how long, (as long) as
+ferē : about, almost
+etenim : and indeed, for
+citrā : on this side of
+ultrā : beyond
+secundum : along
+# end

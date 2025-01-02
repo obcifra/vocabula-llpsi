@@ -1,0 +1,80 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 30
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+balneum, -ī, n. : bath, bathroom
+hospes, -itis, m. : guest, guest-friend
+cēna, -ae, f. : dinner
+iter, itineris, n. : journey, march, way
+famēs, -is, f. : hunger, famine
+sitis, -is, f. : thirst
+bonum, -ī, n. : good, blessing
+trīclīnium, -ī, n. : dining-room
+culīna, -ae, f. : kitchen
+cocus, -ī, m. : cook
+minister, -trī, m. : servant
+medium, -ī, n. : middle, center
+convīvium, -ī, n. : dinner-party
+convīva, -ae, mf. : guest
+genus, -eris, n. : kind, sort
+vās, vāsis n. : vessel, bowl
+argentum, -ī, n. : silver
+holus, -eris, n. : vegetable
+nux, nucis, f. : nut
+carō, carnis, f. : flesh, meat
+sāl, salis, m. : salt, wit
+calida, -ae, f. : hot water
+merum, -ī, n. : neat wine
+lībertīnus, -ī, m. : freedman
+mel, mellis, n. : honey
+inexspectātus, -a, -um : unexpected
+tardus, -a, -um : slow, late
+dīligēns, -entis : careful, diligent
+iūcundus, -a, -um : pleasant, delightful
+molestus, -a, -um : troublesome
+īmus, -a, -um : lowest
+argenteus, -a, -um : silver-, of silver
+glōriōsus, -a, -um : glorious, boastful
+acūtus, -a, -um : sharp
+merus, -a, -um : pure, neat, undiluted
+acerbus, -a, -um : sour, bitter
+dulcis, -e : sweet
+recipere : receive, admit
+salvēre iubēre : greet
+vīsere, -sisse : go and see, visit
+requiēscere : rest
+fruī : enjoy
+nūntiāre : announce, report
+contrahere : draw together, wrinkle
+praeesse : be in charge (of)
+cēnāre : dine, have dinner
+perferre : carry, endure
+ēligere, -lēgisse, -lēctum : choose, select
+coquere, coxisse, coctum : cook
+exōrnāre : adorn, decorate
+parāre : prepare, make ready
+sternere, strāvisse, strātum : spread
+accubāre : recline at table
+accumbere, -cubuisse : lie down at table
+placēre : please
+gustāre : taste
+aspergere, -sisse, -sum : sprinkle, scatter (on)
+fundere, fūdisse, fūsum : pour, shed
+miscēre, miscuisse, mixtum : mix
+pōtāre : drink
+līberāre : free, set free
+apportāre : bring
+prōferre : bring forth, produce
+exhaurīre : drain, empty
+complēre, -ēvisse, -ētum : fill, complete
+singulī, -ae, -a : one (each), each
+bīnī, -ae, -a : two (each)
+ternī, -ae, -a : three (each)
+circiter : about
+diū : long (time)
+paulisper : for a short time
+dēmum : at last, only
+prīdem : long ago
+equidem : indeed, for my part
+sānē : certainly, quite
+# end

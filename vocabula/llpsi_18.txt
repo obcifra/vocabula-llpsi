@@ -1,0 +1,61 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 18
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0
+# by Paul Denisowski (paul@denisowski.org)
+vōcālis, -is, f. : vowel
+cōnsonāns, -antis, f. : consonant
+zephyrus, -ī, m. : west wind
+sententia, -ae, f.  : opinion, sentence
+erus, -ī, m. : master
+mendum, -ī, n. : mistake, error
+cēra, -ae, f.  : wax
+māteria, -ae, f.  : material, substance
+apis, -is, f. : bee
+ferrum, -ī, n. : iron, steel
+epistula, -ae, f.  : letter
+calamus, -ī, m. : reed, pen
+charta, -ae, f.  : paper
+papȳrus, -ī, f. : papyrus
+mercēs, -ēdis, f. : wage, fee, rent
+rārus, -a, -um : rare
+frequēns, -entis : numerous, frequent
+varius, -a, -um : varied, different
+turpis, -e : ugly, foul
+mollis, -e : soft
+dūrus, -a, -um : hard
+quālis, -e : what sort of, (such) as
+tālis, -e : such
+impiger, -gra, -grum : active, industrious
+iungere, iūnxisse, iūnctum : join, combine
+coniungere : join, connect
+significāre : indicate, mean
+legere, lēgisse, lēctum : read
+intellegere, -ēxisse, -ēctum : understand, realize
+scrībere, scrīpsisse, scrīptum : write
+dictāre : dictate
+comparāre : compare
+exaudīre : hear
+deesse, dēfuisse : be missing, fail
+addere, -didisse, -ditum : add
+corrigere, -rēxisse, -rēctum : correct
+premere, pressisse, pressum : press
+efficere : make, effect, cause
+animadvertere : notice
+superesse : be left, be in excess
+dēlēre, -ēvisse, -ētum : delete, efface
+signāre : mark, seal
+imprimere, -pressisse, -pressum : press (into)
+īdem, eadem, idem : the same
+sīc : in this way, so, thus
+ita : so, in such a way
+quotiēs : how many times
+totiēs : so many times
+semel : once
+bis : twice
+ter : three times
+quater : four times
+quīnquiēs : five times
+sexiēs : six times
+deciēs : ten times
+adverbium, -ī, n. : adverb
+# end

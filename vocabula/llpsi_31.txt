@@ -1,0 +1,69 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 31
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+pōtiō, -ōnis, f. : drinking, drink
+rūmor, -ōris, m. : rumor
+memoria, -ae, f. : memory
+mūnus, -eris, n. : gift
+fidēs, -ium, fpl. : lyre
+crux, -ucis, f. : cross
+iuvenis, -is, m. : young man
+praemium, -ī, n. : reward, prize
+poena, -ae, f. : punishment, penalty
+iūs, iūris, n. : right, justice
+lēx, lēgis, f. : law
+parricīda, -ae, m. : parricide
+scelus, -eris, n. : crime
+supplicium, -ī, n. : (capital) punishment
+mōs, mōris, m. : custom, usage
+iniūria, -ae, f. : injustice, wrong
+senex, senis, m. : old man
+nūgae, -ārum, fpl. : idle talk, rubbish
+praesēs, -entis : present
+avārus, -a, -um : greedy, avaricious
+impatiēns, -entis : impatient
+īnfēlīx, -īcis : unlucky, unfortunate
+asinīnus, -a, -um : ass’s
+fīdus, -a, -um : faithful, reliable
+īnfidus, -a, -um : faithless
+fugitīvus, -a, -um : runaway
+nimius, -a, -um : too big
+clēmēns, -entis : mild, lenient
+iūstus, -a, -um : just, fair
+iniūstus, -a, -um : unjust, unfair
+sapiēns, -entis : wise
+scelestus, -a, -um : criminal, wicked
+crūdēlis, -e : cruel
+vetus, -eris : old
+invalidus, -a, -um : infirm, weak
+dēbilis, -e : weak
+ēbrius, -a, -um : drunk
+nōnāgēsimus, -a, -um : ninetieth
+optāre : wish
+aufugere : run away, escape
+auferre, abstulisse, ablātum : carry off, take away
+fīdere, fīsum esse : trust, rely on
+cōnfidere : trust
+cruciāre : torture, torment
+latēre : be hidden, hide
+retrahere : pull back, bring back
+statuere, -uisse, -ūtum : fix, determine
+ignōscere, -ōvisse : forgive
+ōdisse : hate
+vetāre : forbid
+ēducāre : bring up
+abdūcere : take away, carry off
+fābulārī : talk, chat
+quidquid : whatever, anything that
+quisquis : whoever, anyone who
+quantum, -ī, n. : how much, (as much) as
+aliquantum : a good deal
+nimium : too much
+quamobrem : why
+ideō : for that reason
+funditus : to the bottom, utterly
+priusquam : before
+namque : for
+cōram : in the presence of
+# end

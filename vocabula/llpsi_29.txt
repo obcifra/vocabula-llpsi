@@ -1,0 +1,84 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 29
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+fundus, -ī, m. : bottom
+vīta, -ae, f. : life
+lucrum, -ī, n. : profit, gain
+spēs, -eī, f. : hope
+dīvitiae, -ārum, fpl. : riches
+iactūra, -ae, f. : throwing away, loss
+laetitia, -ae, f. : joy
+trīstitia, -ae, f. : sadness
+nāvigātiō, -ōnis, f. : sailing, voyage
+delphīnus, -ī, m. : dolphin
+fidēs, -eī, f. : trust, faith, loyalty
+fidicen, -inis, m. : lyre-player
+cantus, -ūs, m. : singing, music
+carmen, -inis, n. : song, poem
+dorsum, -ī, n. : back
+maleficium, -ī, n. : evil deed, crime
+salūs, -ūtis, f. : safety, well-being
+fūr, -is, m. : thief
+fūrtum, -ī, n. : theft
+beneficium, -ī, n. : benefit, favor
+tyrannus, -ī, m. : tyrant
+fēlīcitās, -ātis, f. : good fortune, luck
+invidia, -ae, f. : envy
+piscātor, -ōris, m. : fisherman
+fortūna, -ae, f. : fortune
+rēmus, -ī, m. : oar
+pretiōsus, -a, -um : precious
+mīrus, -a, -um : surprising, strange
+maestus, -a, -um : sad, sorrowful
+fēlīx, -īcis : fortunate, lucky
+nōtus, -a, -um : known
+ignārus, -a, -um : ignorant, unaware
+nōbilis, -e : well known, famous
+ignōtus, -a, -um : unknown
+rapidus, -a, -um : rushing, rapid
+celsus, -a, -um : tall
+fallāx, -ācis : deceitful
+vēlōx, -ōcis : swift, rapid
+dēterrēre : deter
+adicere : add
+aestimāre : value, estimate
+remanēre : remain, stay behind
+querī, questum : complain, grumble
+āmittere : lose
+ēripere, ēripiō, ēripuisse, ēreptum : snatch away, deprive of
+afficere : affect, stir
+precārī : pray
+perturbāre : upset
+redūcere : lead back, bring back
+invidēre : envy, grudge
+parcere, pepercisse : spare
+permittere : allow, permit
+permovēre : move deeply
+abstinēre : keep off
+dēsilīre, -uisse : jump down
+dēspērāre : lose hope, despair (of)
+allicere, -iō, -ēxisse, -ectum : attract
+subīre, -eō, -iisse : go under, undergo
+expōnere : put out/ashore, expose
+appārēre : appear
+stupēre : be aghast
+cōnfitērī, -fessum : confess
+surripere, -iō, -uisse, -reptum : steal
+abicere : throw away
+dētrahere : pull off
+suādēre, -sisse : advise
+dōnāre : give, present with
+secāre, -uisse, -ctum : cut
+recognōscere : recognize
+fīnīre : limit, finish
+appropinquāre : approach, come near
+nōnnūllī, -ae, -a : some, several
+sēsē : himself
+frūstrā : in vain
+inde : from there, thence
+prōtinus : at once
+repente : suddenly
+quasi : as, like, as if
+nōnnumquam : sometimes
+# end

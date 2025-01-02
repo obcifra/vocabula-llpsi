@@ -1,0 +1,50 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 35
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0
+# by Paul Denisowski (paul@denisowski.org)
+ōrātiō, -ōnis, f. : speech
+coniūnctiō, -ōnis, f. : conjunction
+interiectiō, -ōnis, f. : interjection
+Mūsa, -ae, f. : Muse
+scamnum, -ī, n. : stool
+sacerdōs, -ōtis, mf. : priest, priestess
+cāsus, -ūs, m. : case
+comparātiō, -ōnis, f. : comparison
+quālitās, -ātis, f. : quality
+quantitās, -ātis, f. : quantity, size
+significātiō, -ōnis, f. : meaning, sense
+speciēs, -ēī, f. : appearance, aspect, sort
+īra, -ae, f. : anger
+affectus, -ūs, m. : mood, feeling
+admīrātiō, -ōnis, f. : wonder, admiration
+coniugātiō, -ōnis, f. : conjugation
+proprius, -a, -um : own, proper
+appellātīvum : appellative
+positīvus : positive
+optātīvus : optative
+cōpulātīvus : compulative, connecting
+disiūnctīvus : disjunctive, separate
+explētīvus : expletive
+causālis : causal
+ratiōnālis :  rational
+inconditus : rude, crude, uncivilized
+similis : similar
+īnflectere : inflect
+dēmere, -mpsisse, -mptum : remove
+luctārī : wrestle
+explānāre : explain
+adnectere, -xuisse, -xum : attach, connect
+ōrdināre : arrange, regulate
+mentiōnem facere : mention, note
+dumtaxat : only, just
+tantundem : just as much
+quidnī : why not
+forsitan : perhaps, maybe
+sīquidem : seeing that, since
+quāpropter : why
+proptereā : therefore
+cis : on this side of
+ēn : look, here is
+coniugātiō, -ōnis, f. : conjugation
+synōnymum, -ī, n. : synonym
+# end

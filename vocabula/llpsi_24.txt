@@ -1,0 +1,39 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 24
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+latus, -eris, n. : side, flank
+sonus, -ī, m. : sound, noise
+strepitus, -ūs, m. : noise, din
+dolor, -ōris, m. : pain, grief
+os, ossis, n. : bone
+tumultus, -ūs, m. : uproar
+aegrōtus, -a, -um : sick
+laevus, -a, -um : left
+pār, paris : equal
+impār, -aris : unequal
+subitus, -a, -um : sudden
+cruentus, -a, -um : blood-stained, bloody
+convertere : turn
+mīrārī : wonder (at), be surprised
+recumbere, -cubuisse : lie down
+percutere, -iō, -cussisse : strike, hit
+frangere, frēgisse, frāctum : break, shatter
+flēre, -ēvisse : cry, weep (for)
+patī, passum : suffer, undergo, bear
+ignōrāre : not know
+nōscere, nōvisse : get to know, know
+cupere, -iō, -īvisse : desire
+iūxtā : next to, beside
+dēnuō : anew, again
+subitō : suddenly
+continuō : immediately
+certō : for certain
+prīmō : at first
+valdē : strongly, very (much)
+aliter : otherwise
+intus : inside
+etsī : even if, although
+cēterum : besides, however
+plūsquamperfectum : pluperfect
+# end

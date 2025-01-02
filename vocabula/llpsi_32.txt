@@ -1,0 +1,67 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 32
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0
+# by Paul Denisowski (paul@denisowski.org)
+servitūs, -ūtis, f. : slavery
+incola, -ae, mf. : inhabitant
+vīs : force, violence, power
+audācia, -ae, f. : boldness, audacity
+inopia, -ae, f. : lack, scarcity
+populus, -ī, m. : people, nation
+classis, -is, f. : fleet
+victōria, -ae, f. : victory
+gēns, gentis, f. : nation, people
+victor, -ōris m, : conqueror, victorious
+vīrēs, -ium, fpl. : strength
+voluntās, -ātis, f. : will
+grātia, -ae, f. : favor, gratitude
+poēta, -ae, mf. : poet
+amīcitia, -ae, f. : friendship
+pīrāta, -ae, m. : pirate
+condiciō, -ōnis, f. : condition
+talentum, -ī, n. : talent
+amphitheātrum, -ī, n. : amphitheater
+cursus, -ūs, m. : race, journey, course
+cūnctus, -a, -um : whole, all
+īnfēstus, -a, -um : unsafe, infested
+cārus, -a, -um : dear
+ēgregius, -a, -um : outstanding, excellent
+proximus, -a, -um : nearest
+commūnis, -e : common
+grātus, -a, -um : pleasing, grateful
+vīlis, -e : cheap
+internus, -a, -um : inner, internal
+mercātōrius, -a, -um : merchant-
+nūbilus, -a, -um : cloudy
+inermis, -e : unarmed
+mūtuus, -a, -um : on loan
+superbus, -a, -um : haughty, proud
+submergere : sink
+contemnere, contempsisse, contemptum : despise, scorn
+percurrere, percurrisse, percursum : run over, pass over
+tuērī, tūtum : guard, protect
+rēmigāre : row
+adiuvāre : help
+flectere, flexisse, flexum : bend, turn
+ēdūcere : bring out, draw out
+repugnāre : fight back, resist
+dissuādēre : advise not to
+praeferre : prefer
+offerre, obtulisse, oblātum : offer
+redimere, redēmisse, redēmptum : ransom
+reminīscī : recollect
+meminisse : remember, recollect
+referre, rettulisse : bring back, return
+minārī : threaten
+armāre : arm, equip
+dēsistere, -stitisse : leave off, cease
+aliquot : some, several
+ubīque : everywhere
+aliquandō : once
+intereā : meanwhile
+etiamnunc : still
+dōnec : as long as
+neu : and (that) not, nor
+seu : or, if
+utinam : I wish that, if only…!
+# end

@@ -1,0 +1,46 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 06
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.5
+# Original list by Paul Denisowski
+via, -ae, f. : road, way, street : VI
+mūrus, -ī, m. : wall : VI
+porta, -ae, f. : gate : VI
+lectīca, -ae, f. : litter, sedan : VI
+saccus, -ī, m. : sack : VI
+umerus, -ī, m. : shoulder : VI
+amīcus, -ī, m. : friend : VI
+inimīcus, -ī, m. : (personal) enemy : VI
+equus, -ī, m. : horse : VI
+amīca, -ae, f. : girlfriend : VI
+longus, -a, -um : long : VI
+malus, -a, -um : bad, wicked, evil : VI
+fessus, -a, -um : tired, weary : VI
+duodecim	: twelve : VI
+eō, īre, iī/īvī, itum : go : VI
+portō, portāre, portāvī, portātum : carry, bear : VI
+ambulō, ambulāre, ambulāvī, ambulātum : walk : VI
+vehō, vehere, vēxī, vectum : carry, convey, pass ride, sail, travel : VI
+timeō, timēre, timuī : fear, be afraid (of) : VI
+intrō, intrāre, intrāvī, intrātum : enter : VI
+tam : so, as : VI
+quam : how, as, than : VI
+inter : between, among, during : VI
+prope : near, nearly : VI
+procul : far (from), far away : VI
+circum : round : VI
+ad : to, toward, by, at, till : VI
+ante : in front of, before : VI
+post : behind, after, later : VI
+ā/ab/abs : from, of, since, by : VI
+apud : beside, near, by : VI
+per : through, by, during : VI
+nam : for : VI
+itaque : therefore : VI
+autem : but, however : VI
+unde : from where : VI
+quō : where (to) : VI
+praepositiō, -ōnis, f. : preposition : VI
+locātīvus : locative : VI
+āctīvum : active : VI
+passīvum : passive : VI
+# end

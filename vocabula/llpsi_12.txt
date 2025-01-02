@@ -1,0 +1,63 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 12
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+frāter, -tris, m. : brother
+soror, -ōris, f. : sister
+nōmen, -inis, n. : name
+praenōmen, -inis, n. : first name
+cognōmen, -inis, n. : surname
+avunculus, -ī, m. : (maternal) uncle
+mīles, -itis, m. : soldier
+scūtum, -ī, n. : shield
+gladius, -ī, m. : sword
+pīlum, -ī, n. : spear, javelin
+arma, -ōrum, npl : arms
+arcus, -ūs, m. : bow
+sagitta, -ae, f. : arrow
+pugnus, -ī, m. : fist
+hasta, -ae, f. : lance
+pedes, -itis, m. : foot-soldier
+eques, -itis, m. : horseman
+pars, -rtis, f. : part, direction
+fīnis, -is, m. : boundary, limit, end
+patria, -ae, f. : native country/town
+hostis, -is, m. : enemy
+bellum, -ī, n. : war
+exercitus, -ūs, m. : army
+dux, ducis, m. : leader, chief, general
+castra, -ōrum, npl. : camp
+passus, -ūs, m. : pace (1.48 m)
+fossa, -ae, f. : ditch, trench
+vāllum, -ī, n. : rampart
+equitātus, -ūs, m. : cavalry
+impetus, -ūs, m. : attack, charge
+metus, -ūs, m. : fear
+versus : toward
+mīlle, mīlia, -ium, n. : thousand
+trīstis, -e : sad
+armātus, -a, -um : armed
+brevis, -e : short
+gravis, -e : heavy, severe, grave
+levis, -e : light, slight
+barbarus, -a, -um : foreign, barbarian
+altus, -a, -um : high, tall, deep
+lātus, -a, -um : broad, wide
+fortis, -e : strong, brave
+vester, -tra, -trum : your, yours
+ferre, tulisse, lātum : carry, bring, bear
+pugnāre : fight
+incolere : inhabit
+dīvidere, -īsisse, -īsum : separate, divide
+oppugnāre : attack
+metuere, -uisse : fear
+mīlitāre : serve as a soldier
+dēfendere, -disse, -ēnsum : defend
+iacēre : lie
+expugnāre : conquer
+fugere, -iō, fūgisse : run away, flee
+contrā : against
+ac : and
+adiectīvum : adjective
+comparātīvus : comparative
+# end

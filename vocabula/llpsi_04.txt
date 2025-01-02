@@ -1,0 +1,41 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 04
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.5
+# Orignal list by Paul Denisowski
+sacculus, -ī, m. : purse : IV
+pecūnia, -ae, f. : money : IV
+nummus, -ī, m. : coin, sesterce : IV
+mēnsa, -ae, f. : table : IV
+baculum, -ī, n. : stick : IV
+vacuus, -a, -um : empty : IV
+bonus, -a, -um : good : IV
+quattuor : four : IV
+quīnque : five : IV
+septem : seven : IV
+octō : eight : IV
+novem : nine : IV
+decem : ten : IV
+habeō, habēre, habuī, habitum : have, hold, consider : IV
+numerō, numerāre, numerāvī, numerātum : count : IV
+adesse : be present, stand by : IV
+abesse  : be absent, away, distant : IV
+salūtō, salūtāre, salūtavī, salūtātum : greet : IV
+taceō, tacēre, tacuī, tacitum : be silent : IV
+accūsō, accūsāre, accūsāvī, accūsātum : accuse : IV
+pōnō, pōnere, posuī, positum  : place, put, lay down : IV
+sūmō, sūmere, sūmpsī, sūmptum : take : IV
+discēdō, discēdere, discessī, discessum : go away, depart : IV
+imperō, imperāre, imperāvī, imperātum  : command, order, rule : IV
+pāreō, pārēre, pāruī, pāritum  : obey, submit to, be obedient to (+dat) : IV
+nūllus, -a, -um : no : IV
+eius : his : IV
+suus, -a, -um : his, her, their (own) : IV
+is, ea, id : he, she, it, that : IV
+quod  : because, that : IV
+rūrsus : again : IV
+tantum, -ī, n. : so much : IV
+salvē : hello, good morning : IV
+vocātīvus  : vocative : IV
+imperātīvus  : imperative : IV
+indicātīvus : indicative : IV
+# end

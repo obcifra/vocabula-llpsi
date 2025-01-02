@@ -1,0 +1,46 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 15
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0
+# by Paul Denisowski (paul@denisowski.org)
+lūdus, -ī, m. : play, game, school
+magister, -tri, m. : schoolmaster, teacher
+discipulus, -ī, m. : pupil, disciple
+virga, -ae, f.  : rod
+sella, -ae, f.  : stool, chair
+iānua, -ae, f.  : door
+vērum : but
+tergum, -ī, n. : back
+malum, -ī, n. : evil, trouble, harm
+lectulus, -ī, m. : (little) bed
+sevērus, -a, -um : stern, severe
+tacitus, -a, -um : silent
+vērus, -a, -um : true
+posterior, -ius : back-, hind-, later
+īnferior, -ius : lower, inferior
+prior, -ius : first, former, front-
+pūnīre : punish
+cōnsīdere, -sēdisse : sit down
+exclāmāre : cry out, exclaim
+dēsinere, -siisse : finish, stop, end
+redīre, -eō, -iisse, -itum : go back, return
+reddere, -didisse, -ditum : give back, give
+recitāre : read aloud
+licēre, licet : it is allowed, one may
+sum : I am
+es : he, she, it is
+sumus : we are
+estis : you (pl.) are
+ego, mē, mihi/mī : I, me, myself
+tū, tē, tibi : you, yourself
+nōs, nōbīs : we, us, ourselves
+vōs, vōbīs : you, yourselves
+nōndum : not yet
+statim : at once
+tum : then
+quid : what, anything
+domī : at home
+antequam : before
+at : but
+sī : if
+nisi : if not, except, but
+# end

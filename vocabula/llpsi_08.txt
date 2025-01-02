@@ -1,0 +1,43 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 08
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.5
+# Original list by Paul Denisowski
+taberna, -ae, f. : shop, stall : VIII
+gemma, -ae, f. : precious stone, jewel : VIII
+margarīta, -ae, f. : pearl : VIII
+tabernārius, -ī, m. : shopkeeper : VIII
+ōrnāmentum, -ī, n. : ornament, jewel : VIII
+ānulus, -ī, m. : ring : VIII
+līnea, -ae, f. : string, line : VIII
+digitus, -ī, m. : finger : VIII
+collum, -ī, n. : neck : VIII
+pretium, -ī, n. : price, value : VIII
+sēstertius, -ī, m. : sesterce (coin) : VIII
+pecūniōsus, -a, -um : wealthy : VIII
+gemmātus, -a, -um : set with a jewel : VIII
+medius, -a, -um : mid, middle : VIII
+quārtus, -a, -um : fourth : VIII
+vīgintī : twenty : VIII
+octōgintā : eighty : VIII
+nōnāgintā : ninety : VIII
+vēndō, vēndere, vēndidī, vēnditum : sell, vend : VIII
+cōnsistō, cōnsistere, cōnstitī, cōnstitum : stop, halt : VIII
+emō, emere, ēmī, ēmptum : buy, purchase : VIII
+aspiciō, aspicere, aspexī, aspectum : look at, look upon : VIII
+abeō, abīre, abiī/abīvī, abitum : go away : VIII
+accipiō, accipere, accēpī, acceptum : receive, accept, take : VIII
+ōrnō, ōrnāre, ōrnāvī, ōrnātum : equip, adorn : VIII
+clāmō, clāmāre, clāmāvī, clāmātum : shout, cry out, clamor : VIII
+mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātum : point out, show, demonstrate : VIII
+ostendō, ostendere, ostendī, ostentum : show, expose, exhibit : VIII
+cōnstō, cōnstāre, cōnstitī, cōnstātum : be fixed, cost, consist : VIII
+conveniō, convenīre, convēnī, conventum : come together, meet : VIII
+alius, -a, -ud : another, other : VIII
+ille, -a, -ud : that, the one, he : VIII
+tantus, -a, -um : so big, so great : VIII
+quantus, -a, -um : how large, (as large) as : VIII
+satis : enough, rather : VIII
+nimis : too, too much : VIII
+aut : or : VIII
+prōnōmen, -inis, n. : pronoun : VIII
+# end

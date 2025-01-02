@@ -1,0 +1,47 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 01
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.5
+# Original list by Paul Denisowski
+fluvius,-ī, m. : river : I
+īnsula, -ae, f. : island : I
+oppidum, -ī, n. : town : I
+ōceanus, -ī, m. : ocean : I
+imperium, -ī, n. : empire : I
+prōvincia, -ae, f. : province : I
+numerus, -ī, m. : number : I
+littera, -ae, f. : letter : I
+vocābulum, -ī, n. : vocabulary (word) : I
+capitulum, -ī, n : chapter : I
+syllaba, -ae, f. : syllable : I
+exemplum, -ī, n. : example, model : I
+pēnsum, -ī, n. : task : I
+magnus, -a, -um : big, large, great : I
+parvus, -a, -um : little, small : I
+Graecus, -a, -um : Greek : I
+Rōmānus, -a, -um : Roman : I
+Latīnus, -ī, m. : Latin : I
+multī, -ae, -a : many, a great many : I
+paucī, -ae, -a : few, a few : I
+ūnus, -a, -um : one, only : I
+duo, -ae, -o : two : I
+trēs, tria : three : I
+sex : six : I
+mīlle, -ium, n. : thousand : I
+prīmus, -a, -um : first : I
+secundus, -a, -um : second : I
+tertius, -a, -um : third : I
+est : is : I
+sunt : are : I
+in : in, on, at : I
+et : and, also : I
+sed : but : I
+nōn : not : I
+quoque : also, too : I
+-ne : if, whether (tag used to form questions) : I
+ubi : where : I
+num : if, whether, (asks a question expecting a negative answer) : I
+quid : what : I
+grammatica, -ae, f. : grammar : I
+singulāris : singular : I
+plūrālis : plural : I
+# end

@@ -1,0 +1,82 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 27
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0
+# by Paul Denisowski (paul@denisowski.org)
+ager, -grī m. : field
+frūmentum, -ī, n. : corn, grain
+agricola, -ae, m. : farmer, peasant
+negōtium, -ī, n. : business, activity
+arātrum, -ī, n. : plough
+īnstrūmentum, -ī, n. : tool, instrument
+sēmen, -inis n. : seed
+falx, -cis, f. : sickle
+regiō, -ōnis, f. : region, district
+frūgēs, -um, fpl. : fruit, crops
+pecus, -oris, n. : livestock, sheep, cattle
+pābulum, -ī, n. : fodder
+lāna, -ae, f. : wool
+cōpia, -ae, f. : abundance, lot
+vītis, -is, f. : vine
+vīnea, -ae, f. : vinyard
+ūva, -ae, f. : grape
+vīnum, -ī, n. : wine
+praedium, -ī, n. : estate
+labor, -ōris, m. : work, toil
+rūs, rūris, n. : the country
+ōtium, -ī, n. : leisure
+colōnus, -ī, m. : (tenant-) farmer
+patientia, -ae, f. : forbearance, patience
+cūra, -ae, f. : care, anxiety
+precēs, -um, fpl. : prayers
+calor, -ōris, m. : warmth, heat
+frīgus, -oris, n. : cold
+grex, -egis, m. : flock, herd, band
+amoenus, -a, -um : lovely, pleasant
+mātūrus, -a, -um : ripe
+rudis, -e : crude, rude
+fertilis, -e : fertile
+suburbānus, -a, -um : near the city
+urbānus, -a, -um : of the city, urban
+patiēns, -entis : patient
+rūsticus, -a, -um : rural, rustic, farm-
+gravida : pregnant
+siccus, -a, -um : dry
+neglegēns, -entis : careless
+nēquam : worthless, bad
+immātūrus, -a, -um : unripe
+inhūmānus, -a, -um : inhuman
+trīcēsimus, -a, -um : thirtieth
+quiēscere, -ēvisse : rest
+cingere, cīnxisse, cīnctum : surround
+crēscere, -ēvisse : grow
+metere : reap, harvest
+arāre : plow
+serere, sēvisse, satum : sow, plant
+colere, -uisse, cultum : cultivate
+spargere, -sisse, -sum : scatter
+ūtī, ūsum : use, enjoy
+pāscere, pāvisse, pāstum : pasture, feed, feast
+invehere : import
+rigāre : irrigate
+labōrāre : toil, work, take trouble
+exīstimāre : consider, think
+cēnsēre, -uisse, -sum : think
+prōicere : throw (forward)
+ōrāre : pray, beg
+rapere, rapiō, rapuisse, raptum : tear away, carry off
+neglegere, -ēxisse, -ēctum : neglect
+prōdesse, prōfuisse : be useful, do good
+nocēre : harm, hurt
+prohibēre : keep off, prevent
+quīdam, quaedam, quodam : a certain, some
+parum : too little, not quite
+tantum : so much, only
+dēnique : finally, at last
+circā : round
+prae : before, for
+prō : for, instead of
+ā/ab/abs : from, of, since, by
+ve : or
+nē : that not, lest, that
+coniūnctīvus : subjunctive
+# end

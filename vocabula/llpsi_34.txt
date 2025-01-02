@@ -1,0 +1,92 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 34
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+scalpellum, -ī, n. : scalpel, surgical knife
+opera, -ae, f. : effort, pains
+lūdus, -ī, m. : game
+certāmen, -inis, n. : contest, fight
+gladiātor, -ōris, m. : gladiator
+rēte, -is, n. : net
+spectātor, -ōris, m. : spectator
+palma, -ae, f. : palm
+circus, -ī, m. : circle, orbit, circus
+aurīga, -ae, m. : charioteer, driver
+theātrum, -ī, n. : theater
+cōmoedia, -ae, f. : comedy
+ingenium, -ī, n. : nature, character
+ratiō, -ōnis, f. : reason
+prīncipium, -ī, n. : beginning
+fātum, -ī, n. : fate, destiny, death
+gremium, -ī, n. : lap, bosom
+tenebrae, -ārum, fpl. : darkness
+lucerna, -ae, f. : lamp
+passer, -eris, m. : sparrow
+dēliciae, -ārum, fpl. : delight, pet
+ocellus, -ī, m. : (little) eye
+mēns, mentis, f. : mind
+bāsium, -ī, n. : kiss
+odium, -ī, n. : hatred
+rīsus, -ūs, m. : laughter, laugh
+cachinnus, -ī, m. : laugh, guffaw
+arānea, -ae, f. : spider, cobweb
+epigramma, -atis, n. : epigram
+sinus, -ūs, m. : fold (of toga)
+versiculus, -ī, m. : short verse
+anus, -ūs, f. : old woman
+testis, -is, mf. : witness
+opēs, -um, fpl. : resources, wealth
+diphthongus, -ī, n. : diphthong
+nota, -ae, f. : mark, sign
+turgidus, -a, -um : swollen
+misellus, -a, -um : poor, wretched
+gladiātōrius, -a, -um : gladiatorial
+circēnsēs, -ium, mpl. : games in the circus
+scaenicus, -a, -um : theatrical
+ācer, -cris, -cre : keen, active, fierce
+geminus, -a, -um : twin
+bellus, -a, -um : lovely, pretty
+poēticus, -a, -um : poetical
+venustus, -a, -um : charming
+mellītus, -a, -um : sweet
+tenebricōsus, -a, -um : dark
+ultimus, -a, -um : most distant, last
+perpetuus, -a, -um : continuous, permanent
+dubius, -a, -um : undecided, doubtful
+iocōsus, -a, -um : humorous, funny
+sērius, -a, -um : serious
+niveus, -a, -um : snow-white
+certāre : contend, fight
+laedere, -sisse, -sum : injure, hurt
+implicāre, -uisse, -itum : enfold
+plaudere, -sisse : clap, applaud
+libēre: please (sb)
+favēre, fāvisse : favor, support
+lūgēre, -xisse : mourn
+accendere, -disse, -ēnsum : light, inflame
+circumsilīre : hop about
+pīpiāre : chirp
+dēvorāre : swallow up, devour
+conturbāre : mix up, confound
+nūbere, nūpsisse : marry
+affirmāre : assert, affirm
+requīrere, -sīvisse, -sītum : seek, ask
+excruciāre : torture, torment
+ōscitāre : gape, yawn
+sapere, -iō, -iisse : be wise, have sense
+ērubēscere, -buisse : blush
+prōsilīre, -uisse : spring forth
+ēlīdere, -sisse, -sum : omit, elide
+libenter : with pleasure, gladly
+plērumque : mostly
+interdum : now and then
+dummodo : provided that, if only
+nīl : nothing
+trochaeus, -ī, m. : trochee
+iambus, -ī, m. : iambus
+dactylus, -ī, m. : dactyl
+spondēus, -ī, m. : spondee
+hexameter, -ī, m. : hexameter
+pentameter, -ī, m. : pentameter
+hendecasyllabus, -ī, m. : hendecasyllabus
+# end

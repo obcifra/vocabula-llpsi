@@ -1,0 +1,66 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 28
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+fretum, -ī, n. : strait
+animus, -ī, m. : mind, soul
+turba, -ae, f. : throng, crowd
+fāma, -ae, f. : rumor, reputation
+libellus, -ī, m. : little book
+dictum, -ī, n. : saying, words
+prīnceps, -ipis, m. : chief, leader
+tībīcen, -inis, m. : flute-player
+potestās, -ātis, f. : power
+mundus, -ī, m. : world, universe
+nāvicula, -ae, f. : boat
+vigilia, -ae, f. : night watch
+phantasma, -atis, n. : ghost, apparition
+tranquillitās, -ātis, f. : calmness
+vorāgō, -inis, f. : abyss, whirlpool
+perīculum, -ī, n. : danger, peril
+praedō, -ōnis, m. : robber, pirate
+pecūlium, -ī, n. : money given to slaves
+caecus, -a, -um : blind
+surdus, -a, -um : deaf
+mūtus, -a, -um : dumb
+claudus, -a, -um : lame
+ūniversus, -a, -um : the whole of, entire
+mortālis, -e : mortal
+immortālis, -e : immortal
+cōnstāns, -antis : steady, firm
+salvus, -a, -um : safe, unharmed
+attentus, -a, -um : attentive
+tūtus, -a, -um : safe
+perīculōsus, -a, -um : dangerous, perilous
+quadrāgēsimus, -a, -um : fortieth
+disiungere : separate
+ēicere : throw out
+cessāre : leave off, cease
+oboedīre : obey
+adōrāre : worship, adore
+nāscī, nātum : be born
+morī, mortuum : die
+extendere, -disse, -tum : stretch out, extend
+apprehendere : seize
+memorāre : mention
+rogāre : ask, ask for
+ēvolvere, -visse, -lūtum : unroll
+suscitāre : wake up, rouse
+tumultuārī : make an uproar
+habēre : have, hold, consider
+rēgnāre : reign, rule
+versārī : move about, be present
+persuādēre, -sisse : persuade, convince
+salvāre : save
+perīre, -eō, -iisse : perish, be lost
+impendēre : threaten
+pervenīre : get to, reach
+vītāre : avoid
+spērāre : hope (for)
+servīre : be a slave, serve
+mālle, māluisse : prefer
+admīrārī : admire, wonder at
+potius : rather
+ultrum : whether
+velut : like, as
+# end

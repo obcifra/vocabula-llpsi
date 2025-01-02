@@ -1,0 +1,64 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 26
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+fuga, -ae, f. : flight
+cōnsilium, -ī, n. : advice, decision, intention, plan
+carcer, -eris m. : prison
+orbis, -is m. : circle, orbit
+nātūra, -ae, f. : nature
+ars, artis, f. : art, skill
+opus, -eris, n. : work
+penna, -ae, f. : feather
+ignis, -is, m. : fire
+lacertus, -ī, m. : (upper) arm
+lībertās, -ātis, f. : freedom, liberty
+multitūdō, -inis, f. : large number, multitude
+paenīnsula, -ae, f. : peninsula
+cāsus, -ūs, m. : fall, case
+celer, -eris, -ere : swift, quick
+reliquus, -a, -um : remaining, left
+audāx, -ācis : bold, audacious
+līber, -era, -erum : free
+studiōsus, -a, -um : interested (in)
+ingēns, -entis : huge, vast
+īnfimus, -a, -um : lowest
+summus, -a, -um : highest, greatest
+cautus, -a, -um : cautious
+temerārius, -a, -um : reckless
+propinquus, -a, -um : near, close
+persequī : follow, pursue
+cōnsequī : follow, overtake
+cōnficere : make, accomplish
+cōnsūmere : spend, consume
+invenīre : find
+effugere : escape, run away
+iuvāre, iūvisse, iūtum : help, delight
+excōgitāre : think out, devise
+imitārī : imitate
+ēvolāre : fly out
+perficere : complete, accomplish
+mollīre : make soft, soften
+fīgere, fixisse, fixum : fix, fasten
+levāre : lift, raise
+ūrere, ussisse, ustum : burn
+suspicere : look up (at)
+dēspicere : look down (on), despise
+accidere, -disse : happen, occur
+quatere, -iō : shake
+aberrāre : wander away, stray
+revocāre : call back, revoke
+vidērī : seem, appear
+estō: be
+quisquam : anyone
+sūrsum : up, upward
+deorsum : down
+haud : not
+paene : nearly, almost
+quidem : indeed, certainly
+tamquam : as, like
+quoniam : as, since
+sīn : but if
+trāns : across, over
+gerundium, -ī, n. : gerund
+# end

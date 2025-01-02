@@ -1,0 +1,58 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 10
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.5
+# Original list by Paul Denisowski
+asinus, -ī, m. : ass, donkey : X
+leō, -ōnis, m. : lion : X
+bēstia, -ae, f. : beast, animal : X
+homō, -inis, m. : human being, person : X
+fera, -ae, f. : wild animal : X
+avis, -is, f. : bird : X
+piscis, -is, m. : fish : X
+aquila, -ae, f. : eagle : X
+āēr, -eris, m. : air : X
+āla, -ae, f. : wing : X
+pēs pedis, m. : foot : X
+cauda, -ae, f. : tail : X
+petasus, -ī, m. : hat : X
+deus, -ī, m : god : X
+mercātor, -ōris, m. : merchant : X
+nūntius, -ī, m. : messenger, message : X
+mare, -is, n. : sea : X
+flūmen, -inis, n. : river : X
+anima, -ae, f. : breath, life, soul : X
+pulmō, -ōnis, m. : lung : X
+animal, -ālis, n. : animal, living being : X
+nīdus, -ī, m. : nest : X
+rāmus, -ī, m. : branch, bough : X
+folium, -ī, n. : leaf : X
+ōvum, -ī, n. : egg : X
+pullus, -ī, m. : young (of an animal) : X
+pila, -ae, f. : ball : X
+vōx vōcis, f. : voice : X
+lectus, -ī, m. : bed, couch : X
+ferus, -a, -um : wild : X
+vīvus, -a, -um : living, alive : X
+mortuus, -a, -um : dead : X
+crassus, -a, -um : thick, fat : X
+tenuis, -e : thin : X
+perterritus, -a, -um : terrified : X
+capiō, capere, cēpī, captum : take, catch, capture : X
+volō, volāre, volāvī, volātum : fly : X
+natō, natāre, natāvī, natātum : swim : X
+moveō, movēre, mōvī, mōtum : move, stir : X
+faciō, facere, fēcī, factum : make, do, cause : X
+vīvō, vīvere, vīxī, vīctum: live, be alive : X
+spīrō, spīrāre, spīrāvī, spīrātum : breathe : X
+pariō, parere, peperī, partum : give birth to, lay : X
+lūdō, lūdere, lūsī, lūsum : play : X
+canō, canere, cecinī, cantum : sing (of), recite, play : X
+possum, posse, potuī : be able : X
+volō, velle, voluī : wish, want, be willing : X
+necesse est : it is necessary : X
+nēmō, -inem, -inī : no one, nobody : X
+cum : with : X
+quod : what, which, that which : X
+enim : for : X
+īnfīnītīvus : infinitive : X
+# end

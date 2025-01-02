@@ -1,0 +1,58 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 25
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+fābula, -ae, f. : story, fable, play
+agnus, -ī, m. : lamb
+currus, -ūs, m. : chariot
+moenia, -ium, npl. : walls
+mōnstrum, -ī, n. : monster
+taurus, -ī, m. : bull
+labyrinthus, -ī, m. : labyrinth
+aedificium, -ī, n. : building
+mors, mortis, f. : death
+rēx, rēgis, m. : king
+expugnātiō, -ōnis, f. : conquest
+glōria, -ae, f. : glory
+auxilium, -ī, n. : help, assistance
+cīvis, -is, mf. : citizen, countryman
+exitus, -ūs, m. : exit, way out, end
+fīlum, -ī, n. : thread
+mora, -ae, f. : delay
+nex, necis, f. : killing, murder
+lītus, -oris n. : beach, shore
+saxum, -ī, n. : rock
+cōnspectus, -ūs, m. : sight, view
+cupiditās, -ātis, f. : desire
+nārrātiō, -ōnis, f. : narrative
+humilis, -e : low
+timidus, -a, -um : fearful, timid
+terribilis, -e : terrible
+mīrābilis, -e : marvelous, wonderful
+saevus, -a, -um : fierce, cruel
+cupidus, -a, -um : desirous (of), eager (for)
+parātus, -a, -um : ready
+regere, rēxisse, rēctum : direct, guide, govern
+trahere, trāxisse, tractum : drag, pull
+interficere : kill
+aedificāre : build
+vorāre : swallow, devour
+patēre : be open
+necāre : kill
+cōnstituere, -uisse, -ūtum : fix, decide
+occīdere, - disse, -sum : kill
+pollicērī : promise
+prōspicere : look out, look ahead
+dēscendere, -disse : go down, descend
+maerēre : grieve
+dēserere, -uisse, -rtum : leave, desert
+oblīvīscī, -lītum : forget
+complūrēs, -a : several
+forte : by chance
+quotannīs : every year
+ōlim : once, long ago
+ibi : there
+illūc : there, thither
+hūc : here, to this place
+brevī : soon
+# end

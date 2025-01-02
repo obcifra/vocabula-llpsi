@@ -1,0 +1,31 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 05
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0
+# Original list by Paul Denisowski
+vīlla, -ae, f. : country house, villa : V
+hortus, -ī, m. : garden : V
+rosa, -ae, f. : rose : V
+līlium, -ī, n. : lily : V
+nāsus, -ī, m. : nose : V
+ōstium, -ī, n. : door, entrance : V
+fenestra, -ae, f. : window : V
+ātrium, -ī, n. : main room, hall : V
+impluvium, -ī, n. : water basin : V
+aqua, -ae, f. : water : V
+peristȳlum, -ī, n. : peristyle : V
+cubiculum, -ī, n. : bedroom : V
+pulcher, -chra, -chrum : beautiful, fine : V
+foedus, -a, -um : ugly, hideous : V
+sōlus, -a, -um : alone, lonely : V
+habitō, habitāre, habitāvī, habitātum : dwell, live : V
+amō, amāre, amāvī, amātum : love : V
+carpō, carpere, carpsī, carptum : gather, pick, crop : V
+dēlectō, dēlectāre, dēlectāvī, dēlectātum : delight, please : V
+agō, agere, ēgī, āctum : drive, do, perform : V
+etiam : also, even, yet : V
+cum : with : V
+sine : without : V
+ā/ab/abs : from, of, since, by : V
+ex/ē : out of, from, of, since : V
+ablātīvus : ablative : V
+# end

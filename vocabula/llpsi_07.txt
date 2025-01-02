@@ -1,0 +1,38 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 07
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.5
+# Original list by Paul Denisowski
+oculus, -ī, m. : eye : VII
+lacrima, -ae. f. : tear : VII
+speculum, -ī, n. : mirror : VII
+ōstiārius, -ī, m. : door-keeper, porter : VII
+mālum, -ī, n. : apple : VII
+pirum, -ī, n. : pear : VII
+ōsculum, -ī, n. : kiss : VII
+fōrmōsus, -a, -um : beautiful : VII
+plēnus, -a, -um : full (of) : VII
+expectō, exspectāre, expectāvī, expectātum : wait (for), expect : VII
+teneō, tenēre, tenuī, tentum : hold, keep (back) : VII
+lacrimō, lacrimāre, lacrimāvī, lacrimātum : shed tears, weep : VII
+aperiō, aperīre, aperuī, apertum : open, disclose : VII
+claudō, claudere, clausī, clausum : shut, close : VII
+vertō, vertere, vertī, versum : turn, turn about : VII
+tergeō, tergēre, tersī, tersum : rub, wipe, wipe off, clean : VII
+adveniō, advenīre, advēnī, adventum : arrive : VII
+īnsum, inesse, īnfuī, īnfutūrus : to be (in/on) : VII
+dō, dare, dedī, datum : give : VII
+adsum, adesse, adfuī, adfutūrus : be present, stand by : VII
+currō, currere, cucurrī, cursum : run : VII
+exeō, exīre, exiī/exīvī, exitum : go out : VII
+sum, esse, fuī, futūrus : be : VII
+sē, sibi : himself : VII
+hic, haec, hoc : this : VII
+immō : no, on the contrary : VII
+nōnne : not? : VII
+et…et : both…and : VII
+neque ... neque : neither  ... nor : VII
+sōlum : only : VII
+illīc : there : VII
+ē : out of, from, of, since : VII
+datīvus : dative : VII
+# end

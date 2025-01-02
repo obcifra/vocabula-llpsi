@@ -1,0 +1,40 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 03
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.5
+# Original list by Paul Denisowski
+scaena, -ae, f. : scene, stage : III
+persōna, -ae, f. : person : III
+mamma, -ae, f. : mommy : III
+laetus, -a, -um : glad, happy : III
+īrātus, -a, -um : angry : III
+probus, -a, -um : good, honest, proper : III
+improbus, -a, -um : bad, wicked : III
+cantō, cantāre, cantāvī, cantātum : sing : III
+pulsō, pulsāre, pulsāvī, pulsātum : strike, hit, knock (at) : III
+plōrō, plōrāre, plōrāvī, plōrātum : cry : III
+rīdeō, rīdēre, rīsī, rīsum : laugh, make fun of : III
+videō, vidēre, vīdī, vīsum : see, seem : III
+vocō, vocāre, vocāvī, vocātum : call, invite : III
+veniō, venīre, vēnī, ventum : come, arrive : III
+interrogō, interrogāre, interrogāvī, interrogātum : ask, question : III
+respondeō, respondēre, respondī, respōnsum : reply, answer, respond : III
+dormiō, dormīre, dormīvī, dormītum : sleep : III
+audiō, audīre, audīvī, audītum : hear, listen : III
+verberō, verberāre, verberāvī, verberātum : beat, flog : III
+mē : me (acc.) : III
+tē : you (acc.) : III
+eum : him (acc.) : III
+eam : her (acc.) : III
+neque : and nothing : III
+iam : now, already : III
+cūr : why : III
+quia : because : III
+ō : o! : III
+hīc : here : III
+quī, quae, quod : who, which, he who : III
+quem : which (masc acc.) : III
+quam : which (fem. acc.) : III
+nōminātīvus : nominative : III
+accūsātīvus : accusative : III
+verbum : verb : III
+# end

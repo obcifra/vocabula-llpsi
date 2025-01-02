@@ -1,0 +1,71 @@
+﻿# Lingua Latina Per Se Illustrata - Capitulum 13
+# by Hans H. Ørberg, ISBN 1585102385
+# Version 1.0 
+# by Paul Denisowski (paul@denisowski.org)
+annus, -ī, m. : year
+mēnsis, -is, m. : month
+diēs, -ēī, m/f. : day, date
+saeculum, -ī, n. : century
+tempus, -oris, n. : time
+faciēs, -ēī, f. :face
+māne : morning, in the morning
+vesper, -erī, m. : evening
+nox, noctis, f. : night
+initium, -ī, n. : beginning
+hōra, -ae, f. : hour
+merīdiēs, -ēī, m. : midday, noon, south
+lūna, -ae, f. : moon
+stēlla, -ae, f. : star
+lūx, lūcis, f, : light, daylight
+fōrma, -ae, f. : form, shape, figure
+kalendae, -ārum, fpl. : the 1st (of the month)
+īdūs, -uum, fpl. : 13th/15th (of the month)
+nōnae, -ārum, fpl. : 5th/7th (of the month)
+aequinoctium, -ī, n. : equinox
+aestās, -ātis, f. : summer
+hiems, -mis, f. : winter
+vēr, vēris, n. : spring
+autumnus, -ī, m. : autumn
+imber, -bris, m. : rain, shower
+nix, nivis, f. : snow
+lacus, -ūs, m. : lake
+glaciēs, -ēī, f. : ice
+urbs, -bis, f. : city
+postrēmus, -a, -um :  last
+dīmidius, -a, -um : half
+aequus, -a, -um : equal, calm
+clārus, -a, -um : bright, clear, loud
+tōtus, -a, -um : the whole of, all
+obscūrus, -a, -um : dark
+exiguus, -a, -um : small, scanty
+calidus, -a, -um : warm, hot
+frīgidus, -a, -um : cold, chilly, cool
+indēclinābile : indeclinable
+ūndecim : eleven
+trīgintā : thirty
+sexāgintā : sixty
+ducentī, -ae, -a : two hundred
+trecentī, -ae, -a : three hundred
+quīntus, -a, -um : fifth
+sextus, -a, -um : sixth
+septimus, -a, -um : seventh
+octāvus, -a, -um : eighth
+nōnus, -a, -um : ninth
+decimus, -a, -um : tenth
+ūndecimus, -a, -um : eleventh
+duodecimus, -a, -um : twelfth
+nōmināre : name, call
+illūstrāre : illuminate, make clear
+incipere, incipiō, coepisse, coeptum : begin
+operīre, operuisse, operertum : cover
+velle : wish, want
+erat : was
+erant : were
+vel : or
+tunc : then
+nunc  : now
+igitur : therefore, then, so
+item : likewise, also
+quandō : when, as
+superlātīvus : superlative
+# end
