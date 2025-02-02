@@ -1,63 +1,63 @@
 ﻿# Lingua Latina Per Se Illustrata - Capitulum 12
 # by Hans H. Ørberg, ISBN 1585102385
-# Version 1.0 
-# by Paul Denisowski (paul@denisowski.org)
-frāter, -tris, m. : brother
-soror, -ōris, f. : sister
-nōmen, -inis, n. : name
-praenōmen, -inis, n. : first name
-cognōmen, -inis, n. : surname
-avunculus, -ī, m. : (maternal) uncle
-mīles, -itis, m. : soldier
-scūtum, -ī, n. : shield
-gladius, -ī, m. : sword
-pīlum, -ī, n. : spear, javelin
-arma, -ōrum, npl : arms
-arcus, -ūs, m. : bow
-sagitta, -ae, f. : arrow
-pugnus, -ī, m. : fist
-hasta, -ae, f. : lance
-pedes, -itis, m. : foot-soldier
-eques, -itis, m. : horseman
-pars, -rtis, f. : part, direction
-fīnis, -is, m. : boundary, limit, end
-patria, -ae, f. : native country/town
-hostis, -is, m. : enemy
-bellum, -ī, n. : war
-exercitus, -ūs, m. : army
-dux, ducis, m. : leader, chief, general
-castra, -ōrum, npl. : camp
-passus, -ūs, m. : pace (1.48 m)
-fossa, -ae, f. : ditch, trench
-vāllum, -ī, n. : rampart
-equitātus, -ūs, m. : cavalry
-impetus, -ūs, m. : attack, charge
-metus, -ūs, m. : fear
-versus : toward
-mīlle, mīlia, -ium, n. : thousand
-trīstis, -e : sad
-armātus, -a, -um : armed
-brevis, -e : short
-gravis, -e : heavy, severe, grave
-levis, -e : light, slight
-barbarus, -a, -um : foreign, barbarian
-altus, -a, -um : high, tall, deep
-lātus, -a, -um : broad, wide
-fortis, -e : strong, brave
-vester, -tra, -trum : your, yours
-ferre, tulisse, lātum : carry, bring, bear
-pugnāre : fight
-incolere : inhabit
-dīvidere, -īsisse, -īsum : separate, divide
-oppugnāre : attack
-metuere, -uisse : fear
-mīlitāre : serve as a soldier
-dēfendere, -disse, -ēnsum : defend
-iacēre : lie
-expugnāre : conquer
-fugere, -iō, fūgisse : run away, flee
-contrā : against
-ac : and
-adiectīvum : adjective
-comparātīvus : comparative
+# Version 1.5
+# Original list by Paul Denisowski
+frāter, -tris, m. : brother : XII
+soror, -ōris, f. : sister : XII
+nōmen, -inis, n. : name : XII
+praenōmen, -inis, n. : first name : XII
+cognōmen, -inis, n. : surname : XII
+avunculus, -ī, m. : (maternal) uncle : XII
+mīles, -itis, m. : soldier : XII
+scūtum, -ī, n. : shield : XII
+gladius, -ī, m. : sword : XII
+pīlum, -ī, n. : spear, javelin : XII
+arma, -ōrum, npl : arms : XII
+arcus, -ūs, m. : bow : XII
+sagitta, -ae, f. : arrow : XII
+pugnus, -ī, m. : fist : XII
+hasta, -ae, f. : lance : XII
+pedes, -itis, m. : foot-soldier : XII
+eques, -itis, m. : horseman : XII
+pars, -rtis, f. : part, direction : XII
+fīnis, -is, m. : boundary, limit, end : XII
+patria, -ae, f. : native country/town : XII
+hostis, -is, m. : enemy : XII
+bellum, -ī, n. : war : XII
+exercitus, -ūs, m. : army : XII
+dux, ducis, m. : leader, chief, general : XII
+castra, -ōrum, npl. : camp : XII
+passus, -ūs, m. : step, pace, quīnque pedes (1.48 m) : XII
+fossa, -ae, f. : ditch, trench : XII
+vāllum, -ī, n. : rampart : XII
+equitātus, -ūs, m. : cavalry : XII
+impetus, -ūs, m. : attack, charge : XII
+metus, -ūs, m. : fear : XII
+versus : toward : XII
+mīlle, mīlia, -ium, n. : thousand : XII
+trīstis, -e : sad : XII
+armātus, -a, -um : armed : XII
+brevis, -e : short : XII
+gravis, -e : heavy, severe, grave : XII
+levis, -e : light, slight : XII
+barbarus, -a, -um : foreign, barbarian : XII
+altus, -a, -um : high, tall, deep : XII
+lātus, -a, -um : broad, wide : XII
+fortis, -e : strong, brave : XII
+vester, -tra, -trum : your, yours : XII
+ferō, ferre, tulī, lātum : carry, bring, bear : XII
+pugnō, pugnāre, pugnāvī, pugnātum : fight : XII
+incolō, incolere, incoluī : cultivate, inhabit, abide, dwell : XII
+dīvidō, dīvidere, dīvīsī, dīvīsum : separate, divide : XII
+oppugnō, oppugnāre, oppugnāvī, oppugnātum : attack : XII
+metuō, metuere, metuī, metūtum : fear, be afraid : XII
+mīlitō, mīlitāre, mīlitāvī, mīlitātum : serve as a soldier : XII
+dēfendō, dēfendere, dēfendī, dēfēnsum : defend : XII
+iaceō, iacēre, iacuī, iacitum : lie down, recline : XII
+expugnō, expugnāre, expugnāvī, expugnātum : capture, subdue, conquer : XII
+fugiō, fugere, fūgī, figitum : run away, flee : XII
+contrā : against : XII
+ac : and : XII
+adiectīvum : adjective : XII
+comparātīvus : comparative : XII
 # end
