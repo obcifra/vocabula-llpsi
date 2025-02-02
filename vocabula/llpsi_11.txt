@@ -1,64 +1,64 @@
 ﻿# Lingua Latina Per Se Illustrata - Capitulum 11
 # by Hans H. Ørberg, ISBN 1585102385
-# Version 1.0 
-# by Paul Denisowski (paul@denisowski.org)
-corpus, -oris, n. : body
-membrum, -ī, n. : limb
-bracchium, -ī, n. : arm
-crūs, -ūris, n. : leg
-manus, -ūs, f. : hand
-caput, -itis, n. : head, chief, capital
-auris, -is, f. : ear
-ōs, ōris, n. : mouth
-capillus, -ī, m. : hair
-frōns, -ontis, f. : forehead
-gena, -ae, f. : cheek
-cerebrum, -ī, n. : brain
-labrum, -ī, n. : lip
-lingua, -ae, f. : tongue, language
-pectus, -oris, n. : breast
-cor, cordis, n. : heart
-sanguis, -inis, m. : blood
-vēna, -ae, f. : vein
-color, -ōris, m. : color
-iecur, -oris, n. : liver
-venter, -tris, m. : belly, stomach
-viscera, -um, npl. : internal organs
-medicus, -ī, m. : physician, doctor
-pōculum, -ī, n. : cup, glass
-culter, -tri, m. : knife
-hūmānus, -a, -um : human
-stultus, -a, -um : stupid, foolish
-ruber, -bra, -brum : red
-sānus, -a, -um : healthy, well
-aeger, -gra, -grum : sick, ill
-noster, -tra, -trum : our, ours
-bene : well
-male : badly, ill
-fluere, -ūxisse : flow
-sānāre : heal, cure
-sedēre, sēdisse : sit
-stāre stetisse : stand
-tangere, tetigisse, tāctum : touch
-arcessere, -īvisse, -ītum : send for, fetch
-iubēre, iussisse, iussum : order, tell
-revenīre : come back
-aegrōtāre : be ill
-dīcere, -xisse, dictum : say, call, speak
-spectāre : watch, look at
-dolēre : hurt, feel pain, grieve
-appōnere : place (on), serve
-sentīre, sēnsisse, sēnsum : feel, sense, think
-horrēre : bristle, stand on end, shudder (at)
-palpitāre : beat, throb
-putāre : think, suppose
-gaudēre, gavisum esse : be glad, be pleased
-dētergēre : wipe off
-posse, potuisse : be able
-modo : only, just
-super : on (top of), above
-īnfrā prp +acc : below
-dē : (down) from, of, about
-atque : and, as, than
-nec : nor
+# Version 1.5
+# Original list by Paul Denisowski
+corpus, -oris, n. : body : XI
+membrum, -ī, n. : limb : XI
+bracchium, -ī, n. : arm : XI
+crūs, -ūris, n. : leg : XI
+manus, -ūs, f. : hand : XI
+caput, -itis, n. : head, chief, capital : XI
+auris, -is, f. : ear : XI
+ōs, ōris, n. : mouth : XI
+capillus, -ī, m. : hair : XI
+frōns, -ontis, f. : forehead : XI
+gena, -ae, f. : cheek : XI
+cerebrum, -ī, n. : brain : XI
+labrum, -ī, n. : lip : XI
+lingua, -ae, f. : tongue, language : XI
+pectus, -oris, n. : breast, chest : XI
+cor, cordis, n. : heart : XI
+sanguis, -inis, m. : blood : XI
+vēna, -ae, f. : vein : XI
+color, -ōris, m. : color : XI
+iecur, -oris, n. : liver : XI
+venter, -tris, m. : belly, stomach : XI
+viscera, -um, npl. : internal organs : XI
+medicus, -ī, m. : physician, doctor : XI
+pōculum, -ī, n. : cup, glass : XI
+culter, -tri, m. : knife : XI
+hūmānus, -a, -um : human : XI
+stultus, -a, -um : stupid, foolish : XI
+ruber, -bra, -brum : red : XI
+sānus, -a, -um : healthy, well : XI
+aeger, -gra, -grum : sick, ill : XI
+noster, -tra, -trum : our, ours : XI
+bene : well : XI
+male : badly, ill : XI
+fluō, fluere, flūxī, flūxum : flow : XI
+sānō, sānāre, sānāvī, sānātum : heal, cure : XI
+sedeō, sedēre, sēdī, sessum : sit : XI
+stō, stāre stetī, statum : stand : XI
+tangō, tangere, tetigī, tāctum : touch : XI
+arcessō, arcessere, arcessīvī, arcessītum : send for, fetch : XI
+iubeō, iubēre, iussī, iussum : order, tell : XI
+reveniō, revenīre, revēnī, reventum : come back : XI
+aegrōtō, aegrōtāre, aegrōtāvī, aegrōtātum : be ill : XI
+dīcō, dīcere, dīxī, dictum : say, call, speak : XI
+spectō, spectāre, spectāvī, spectātum : watch, look at : XI
+doleō, dolēre, doluī, dolitum : hurt, feel pain, grieve : XI
+appōnō, appōnere, apposuī, appositum : place (on), serve : XI
+sentiō, sentīre, sēnsī, sēnsum : feel, sense, think : XI
+horreō, horrēre, horruī : bristle, stand on end, shudder (at) : XI
+palpitō, palpitāre, palpitāvī, palpitātum : beat, throb : XI
+putō, putāre, putāvī, putātum : think, suppose : XI
+gaudeō, gaudēre, gāvīsus sum : be glad, be pleased : XI
+dētergeō, dētergēre, dētersī, dētersum : wipe off : XI
+possum, posse/potesse, potuī : be able : XI
+modo : only, just now : XI
+super : on (top of), above : XI
+īnfrā +acc : below : XI
+dē : (down) from, of, about : XI
+atque : and, as, than : XI
+nec : nor : XI
 # end
