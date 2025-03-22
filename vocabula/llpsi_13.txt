@@ -1,71 +1,71 @@
 ﻿# Lingua Latina Per Se Illustrata - Capitulum 13
 # by Hans H. Ørberg, ISBN 1585102385
-# Version 1.0 
-# by Paul Denisowski (paul@denisowski.org)
-annus, -ī, m. : year
-mēnsis, -is, m. : month
-diēs, -ēī, m/f. : day, date
-saeculum, -ī, n. : century
-tempus, -oris, n. : time
-faciēs, -ēī, f. :face
-māne : morning, in the morning
-vesper, -erī, m. : evening
-nox, noctis, f. : night
-initium, -ī, n. : beginning
-hōra, -ae, f. : hour
-merīdiēs, -ēī, m. : midday, noon, south
-lūna, -ae, f. : moon
-stēlla, -ae, f. : star
-lūx, lūcis, f, : light, daylight
-fōrma, -ae, f. : form, shape, figure
-kalendae, -ārum, fpl. : the 1st (of the month)
-īdūs, -uum, fpl. : 13th/15th (of the month)
-nōnae, -ārum, fpl. : 5th/7th (of the month)
-aequinoctium, -ī, n. : equinox
-aestās, -ātis, f. : summer
-hiems, -mis, f. : winter
-vēr, vēris, n. : spring
-autumnus, -ī, m. : autumn
-imber, -bris, m. : rain, shower
-nix, nivis, f. : snow
-lacus, -ūs, m. : lake
-glaciēs, -ēī, f. : ice
-urbs, -bis, f. : city
-postrēmus, -a, -um :  last
-dīmidius, -a, -um : half
-aequus, -a, -um : equal, calm
-clārus, -a, -um : bright, clear, loud
-tōtus, -a, -um : the whole of, all
-obscūrus, -a, -um : dark
-exiguus, -a, -um : small, scanty
-calidus, -a, -um : warm, hot
-frīgidus, -a, -um : cold, chilly, cool
-indēclinābile : indeclinable
-ūndecim : eleven
-trīgintā : thirty
-sexāgintā : sixty
-ducentī, -ae, -a : two hundred
-trecentī, -ae, -a : three hundred
-quīntus, -a, -um : fifth
-sextus, -a, -um : sixth
-septimus, -a, -um : seventh
-octāvus, -a, -um : eighth
-nōnus, -a, -um : ninth
-decimus, -a, -um : tenth
-ūndecimus, -a, -um : eleventh
-duodecimus, -a, -um : twelfth
+# Version 1.5
+# Original list by Paul Denisowski
+annus, -ī, m. : year : XIII
+mēnsis, -is, m. : month : XIII
+diēs, -ēī, m. : day, date : XIII
+saeculum, -ī, n. : century : XIII
+tempus, -oris, n. : time : XIII
+faciēs, -ēī, f. :face : XIII
+māne : morning, in the morning : XIII
+vesper, -erī, m. : evening : XIII
+nox, noctis, f. : night : XIII
+initium, -ī, n. : beginning : XIII
+hōra, -ae, f. : hour : XIII
+merīdiēs, -ēī, m. : midday, noon, south : XIII
+lūna, -ae, f. : moon : XIII
+stēlla, -ae, f. : star : XIII
+lūx, lūcis, f, : light, daylight : XIII
+fōrma, -ae, f. : form, shape, figure : XIII
+kalendae, -ārum, fpl. : the 1st (of the month) : XIII
+īdūs, -uum, fpl. : 13th/15th (of the month) : XIII
+nōnae, -ārum, fpl. : 5th/7th (of the month) : XIII
+aequinoctium, -ī, n. : equinox : XIII
+aestās, -ātis, f. : summer : XIII
+hiems, -mis, f. : winter : XIII
+vēr, vēris, n. : spring : XIII
+autumnus, -ī, m. : autumn : XIII
+imber, -bris, m. : rain, shower : XIII
+nix, nivis, f. : snow : XIII
+lacus, -ūs, m. : lake : XIII
+glaciēs, -ēī, f. : ice : XIII
+urbs, -bis, f. : city : XIII
+postrēmus, -a, -um :  last : XIII
+dīmidius, -a, -um : half : XIII
+aequus, -a, -um : equal, calm : XIII
+clārus, -a, -um : bright, clear, loud : XIII
+tōtus, -a, -um : the whole of, all : XIII
+obscūrus, -a, -um : dark : XIII
+exiguus, -a, -um : small, scanty : XIII
+calidus, -a, -um : warm, hot : XIII
+frīgidus, -a, -um : cold, chilly, cool : XIII
+indēclinābile : indeclinable : XIII
+ūndecim : eleven : XIII
+trīgintā : thirty : XIII
+sexāgintā : sixty : XIII
+ducentī, -ae, -a : two hundred : XIII
+trecentī, -ae, -a : three hundred : XIII
+quīntus, -a, -um : fifth : XIII
+sextus, -a, -um : sixth : XIII
+septimus, -a, -um : seventh : XIII
+octāvus, -a, -um : eighth : XIII
+nōnus, -a, -um : ninth : XIII
+decimus, -a, -um : tenth : XIII
+ūndecimus, -a, -um : eleventh : XIII
+duodecimus, -a, -um : twelfth : XIII
 nōmināre : name, call
-illūstrāre : illuminate, make clear
-incipere, incipiō, coepisse, coeptum : begin
-operīre, operuisse, operertum : cover
+illūstrō, illūstrāre, illūstrāvī, illūstrātum : illuminate, make clear : XIII
+incipiō, incipere, incēpī, inceptum : begin : XIII
+operiō, operīre, operuī, opertum : cover : XIII
 velle : wish, want
-erat : was
-erant : were
-vel : or
-tunc : then
-nunc  : now
-igitur : therefore, then, so
-item : likewise, also
-quandō : when, as
-superlātīvus : superlative
+erat : was : XIII
+erant : were : XIII
+vel : or : XIII
+tunc : then : XIII
+nunc  : now : XIII
+igitur : therefore, then, so : XIII
+item : likewise, also : XIII
+quandō : when, as : XIII
+superlātīvus : superlative : XIII
 # end
