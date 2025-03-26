@@ -1,58 +1,58 @@
 ﻿# Lingua Latina Per Se Illustrata - Capitulum 14
 # by Hans H. Ørberg, ISBN 1585102385
-# Version 1.0 
-# by Paul Denisowski (paul@denisowski.org)
-gallus, -ī, m. : cock, rooster
-vestīmentum, -ī, n. : garment, clothing
-tunica, -ae, f. : tunic
-toga, -ae, f. : toga
-calceus, -ī, m. : shoe
-parentēs, -um, mpl. : parents
-tabula, -ae, f. : writing-tablet
-stilus, -ī, m. : stylus
-rēgula, -ae, f. : ruler
-rēs, reī, f. : thing, matter, affair
-apertus, -a, -um : open
-clausus, -a, -um : closed, shut
-sordidus, -a, -um : dirty, mean, base
-pūrus, -a, -um : clean, pure
-nūdus, -a, -um : naked
-togātus, -a, -um : wearing the toga
-dexter, -tra, -trum : right
-sinister, -tra, -trum : left
-omnis, -e : all, every
-cubāre, cubuisse, cubitum : lie (in bed)
-vigilāre : be awake
-valēre : be strong, be well
-excitāre : wake up, arouse
-surgere, surrēxisse : rise, get up
-afferre attulisse allātum : bring (to, forward, about)
-lavāre, lāvisse, lautum : wash, bathe
-mergere, -sisse, -sum : dip, plunge, sink
-solēre, solitum esse : be accustomed
-frīgēre : be cold
-poscere, poposcisse : demand, call for
-vestīre : dress
-induere, induisse, indūtum : put on (clothes)
-gerere, gessisse, gestum : carry, wear, carry on, do
-inquit, inquiunt : (he/she) says/said
-uterque utraque, utrumque : each of the two, both
-neuter, neutra, neutrum : neither
-alter, altera, alterum : one, the other, second
-uter, utra, utrum : which (of the two)
-mihi : to me
-tibi : to you
-mēcum : with me
-tēcum : with you
-sēcum : with him, her, it
-nihil : nothing
-quōmodo : how
-hodiē : today
-adhūc : so far, till now, still
-prīmum : first
-deinde : 	afterward, then
-praeter : past, besides, except
-an : or
-valē : farewell, goodbye
-participium, -ī, n. : participle
+# Version 1.5
+# Original list by Paul Denisowski
+gallus, -ī, m. : cock, rooster : XIV
+vestīmentum, -ī, n. : garment, clothing : XIV
+tunica, -ae, f. : tunic : XIV
+toga, -ae, f. : toga : XIV
+calceus, -ī, m. : shoe : XIV
+parentēs, -um, mpl. : parents : XIV
+tabula, -ae, f. : writing-tablet : XIV
+stilus, -ī, m. : stylus : XIV
+rēgula, -ae, f. : ruler : XIV
+rēs, reī, f. : thing, matter, affair : XIV
+apertus, -a, -um : open : XIV
+clausus, -a, -um : closed, shut : XIV
+sordidus, -a, -um : dirty, mean, base : XIV
+pūrus, -a, -um : clean, pure : XIV
+nūdus, -a, -um : naked : XIV
+togātus, -a, -um : wearing the toga : XIV
+dexter, -tra, -trum : right : XIV
+sinister, -tra, -trum : left : XIV
+omnis, -e : all, every : XIV
+cubō, cubāre, cubuī, cubitum : lie (in bed) : XIV
+vigilō, vigilāre, vigilāvī, vigilātum : be awake : XIV
+valeō, valēre, valuī, valitum : be strong, be well : XIV
+excitō, excitāre, excitāvī, excitātum : wake up, arouse : XIV
+surgō, surgere, surrēxī, surrēctum : rise, get up : XIV
+afferō, afferre, perfect active attulī, allātum : bring (to, forward, about) : XIV
+lavō, lavāre, lāvī, lavātum : wash, bathe : XIV
+mergō, mergere, mersī, mersum : dip, plunge, sink : XIV
+soleō, solēre, soluī, solitum : be accustomed : XIV
+frīgeō, frīgēre, frīxī, - : be cold : XIV
+poscō, poscere, poposcī, - : beg, demand, request, call for : XIV
+vestiō, vestīre, vestīvī, vestītum : clothe dress : XIV
+induō, induere, induī, indūtum : put on (clothes), don : XIV
+gerō, gerere, gessī, gestum : carry, wear, carry on, do : XIV
+inquam, inquiī : says, said : XIV
+uterque utraque, utrumque : each of the two, both : XIV
+neuter, neutra, neutrum : neither : XIV
+alter, altera, alterum : one, the other, second : XIV
+uter, utra, utrum : which (of the two) : XIV
+mihi : to me : XIV
+tibi : to you : XIV
+mēcum : with me : XIV
+tēcum : with you : XIV
+sēcum : with him, her, it : XIV
+nihil : nothing : XIV
+quōmodo : how (by what manner) : XIV
+hodiē : today : XIV
+adhūc : so far, till now, still : XIV
+prīmum : first : XIV
+deinde : 	afterward, then : XIV
+praeter : past, besides, except : XIV
+an : or : XIV
+valē : farewell, goodbye : XIV
+participium, -ī, n. : participle : XIV
 # end
