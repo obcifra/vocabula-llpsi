@@ -1,46 +1,47 @@
 ﻿# Lingua Latina Per Se Illustrata - Capitulum 15
 # by Hans H. Ørberg, ISBN 1585102385
-# Version 1.0
-# by Paul Denisowski (paul@denisowski.org)
-lūdus, -ī, m. : play, game, school
-magister, -tri, m. : schoolmaster, teacher
-discipulus, -ī, m. : pupil, disciple
-virga, -ae, f.  : rod
-sella, -ae, f.  : stool, chair
-iānua, -ae, f.  : door
-vērum : but
-tergum, -ī, n. : back
-malum, -ī, n. : evil, trouble, harm
-lectulus, -ī, m. : (little) bed
-sevērus, -a, -um : stern, severe
-tacitus, -a, -um : silent
-vērus, -a, -um : true
-posterior, -ius : back-, hind-, later
-īnferior, -ius : lower, inferior
-prior, -ius : first, former, front-
-pūnīre : punish
-cōnsīdere, -sēdisse : sit down
-exclāmāre : cry out, exclaim
-dēsinere, -siisse : finish, stop, end
-redīre, -eō, -iisse, -itum : go back, return
+# Version 1.5
+# Original list by Paul Denisowski
+lūdus, -ī, m. : play, game, school : XV
+magister, -tri, m. : schoolmaster, teacher : XV
+discipulus, -ī, m. : pupil, disciple : XV
+virga, -ae, f.  : rod : XV
+sella, -ae, f.  : stool, chair : XV
+iānua, -ae, f.  : door : XV
+vērum : but : XV
+tergum, -ī, n. : back : XV
+malum, -ī, n. : evil, trouble, harm : XV
+lectulus, -ī, m. : (little) bed : XV
+sevērus, -a, -um : stern, severe : XV
+tacitus, -a, -um : silent : XV
+vērus, -a, -um : true : XV
+posterior, -ius : back-, hind-, later : XV
+īnferior, -ius : lower, inferior : XV
+prior, -ius : first, former, front- : XV
+pūniō, pūnīre, pūnīvī, pūnītum : punish : XV
+cōnsīdō, cōnsīdere, cōnsēdī, cōnsessum : sit down, be seated : XV
+exclāmō, exclāmāre, exclāmāvī, exclāmātum : cry out, exclaim : XV
+dēsinō, dēsinere, dēsiī, dēsitum : finish, stop, end : XV
+redeō, redīre, rediī, reditum : go back, return : XV
 reddere, -didisse, -ditum : give back, give
-recitāre : read aloud
-licēre, licet : it is allowed, one may
-sum : I am
-es : he, she, it is
-sumus : we are
-estis : you (pl.) are
-ego, mē, mihi/mī : I, me, myself
-tū, tē, tibi : you, yourself
-nōs, nōbīs : we, us, ourselves
-vōs, vōbīs : you, yourselves
-nōndum : not yet
-statim : at once
-tum : then
-quid : what, anything
-domī : at home
-antequam : before
-at : but
-sī : if
-nisi : if not, except, but
+reddō, reddere, reddidī, redditum : give back, give : XV
+recitō, recitāre, recitāvī, recitātum : read aloud : XV
+licēre, licet : it is allowed, one may : XV
+sum : I am : XV
+es : he, she, it is : XV
+sumus : we are : XV
+estis : you (pl.) are : XV
+ego, mē, mihi/mī : I, me, myself : XV
+tū, tē, tibi : you, yourself : XV
+nōs, nōbīs : we, us, ourselves : XV
+vōs, vōbīs : you, yourselves : XV
+nōndum : not yet : XV
+statim : at once : XV
+tum : then : XV
+quid : what, anything : XV
+domī : at home : XV
+antequam : before : XV
+at : but : XV
+sī : if : XV
+nisi : if not, except, but : XV
 # end
